@@ -7,1438 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Syllabus",
-  "body": " Syllabus        Course Information     Day and Time  Lectures: TR 11:40 am - 1:20 pm Gladfelter L024    Recitation  Section 1: M 12:00 pm - 12:50 pm Wachman 9  Section 2: W 12:00 pm - 12:50 pm Wachman 15  Section 3: F 11:00 am - 11:50 am Wachman 408  Section 4: F 1:00 pm - 1:50 pm Wachman 408    Office Hours  See times and location on Canvas    Course Goals  To introduce some of the basic concepts and techniques of probability and statistics, as applied in the Life and Environmental Sciences.    Topics Covered  Probability theory and descriptive statistics, probability models, introduction to inferential statistics.    Prerequisite  MATH 1041 (C), MATH 1038 (C), MATH 1941 (C), MATH 1951 (C), MATH 2043 to 3080 (C-), MA06 Y.    Course Mode  In-person    Credits  4       Textbook and Other Required Materials     Textbook  Course notes are freely available online .    Calculator  You will need a scientific calculator (NOT a graphing calculator and NOT a calculator app on your phone\/watch). Any calculator capable of symbolic differentiation\/integration or performing statistical tests is NOT allowed. Scientific calculators (such as the TI-30XIIS ) typically cost around $10.    Phone  You will need a device (phone or tablet) to take pictures of your quizzes\/tests and upload your work.       Assessments   Homework  There will be homework assignments posted on Canvas approximately weekly. There are more practice problems available in the course notes. Doing homework problems is the primary way that you will learn and internalize the material seen in class. Plan to spend a substantial amount of time throughout the semester doing homework problems.    Quizzes  There will be in-class quizzes every other week (on Jan 20, Feb 3, Mar 10, Mar 24, and Apr 21). Quizzes give you some practice in a test-like environment without the same grade pressure as a test. The quizzes should be a signal to you about whether you're keeping up with the pace of the course.  You may use an allowed calculator during quizzes.    Exams  This course will have two midterm exams and a Final Exam. Exams are the main opportunity for you to demonstrate your understanding of course material.  You may use an allowed calculator and a 3 in x 5 in index card with prepared notes during exams. You are allowed to write on both sides of the index card. You should include your full name in the top right corner of your index card. Your index card will be turned in along with your exam.     Test 1  Tuesday, February 17 (in class)    Test 2  Tuesday, April 7 (in class)    Final Exam  Tuesday, May 5, 10:30 am - 12:30 pm       Makeup Policy  There are no quiz or exam makeups. The lowest quiz will be dropped and replaced with the recitation score.     Grading  The grade components and their weights are:    Component  Weight    Homework  5%    Quizzes  15%    Exam 1  24%    Exam 2  24%    Final Exam  32%    The lower cutoff for each letter grade is given in the table below.     Letter Grade  Lower Cutoff    A  93%    A-  90%    B+  87%    B  83%    B-  80%    C+  77%    C  73%    C-  70%    D+  65%    D  55%    F  0%     Attendance Policy  Attendance is expected and will be recorded. If you need to miss a class for some reason, it is your responsibility to get notes from another student for any material you've missed, and to arrange to turn in\/make up any in-class or collected work.    Attendance and Your Health  To achieve course learning goals, students must attend and participate in classes, according to the course requirements. However, if you have tested positive for or are experiencing symptoms of a contagious illness, you should not come to campus or attend in-person classes or activities. It is the student’s responsibility to contact me to create a plan for participation and engagement in the course as soon as you are able to do so, and to make a plan to complete all assignments in a timely fashion.    Expectations for Class Conduct  It is important to foster a respectful and productive learning environment that includes all students in our diverse community of learners. Our differences, some of which are outlined in the University's nondiscrimination statement, will add richness to this learning experience. Therefore, all opinions and experiences, no matter how different or controversial they may be perceived, must be respected in the tolerant spirit of academic discourse.    Disability Statement  Any student who has a need for accommodations based on the impact of a documented disability or medical condition should contact Disability Resources and Services (DRS) in Howard Gittis Student Center South, Rm 420 ( drs@temple.edu ; 215-204-1280) to request accommodations and learn more about the resources available to you. If you have a DRS accommodation letter to share with me, or you would like to discuss your accommodations, please contact me as soon as practical. I will work with you and with DRS to coordinate reasonable accommodations for all students with documented disabilities. All discussions related to your accommodations will be confidential.    Academic Freedom  Freedom to teach and freedom to learn are inseparable facets of academic freedom. The University has adopted a policy on Student and Faculty Academic Rights and Responsibilities (Policy # 03.70.02) which can be accessed here .    Add\/Drop Policy  Students will be charged for a course unless dropped by the Drop\/Add deadline date. Check the University calendar for exact dates.  During the Drop\/Add period, students may drop a course with no record of the class appearing on their transcript. Students are not financially responsible for any courses dropped during this period. In the following weeks prior to or on the withdrawal date students may withdraw from a course with the grade of \"W\" appearing on their transcript. After the withdrawal date students may not withdraw from courses. Check the University calendar for exact dates. See the full policy by clicking here .    AI Policy  The use of generative AI tools (such as ChatGPT, DALL-E, etc.) is not permitted in this class unless specifically announced for a particular assignment; therefore, any use of AI tools for work in this class may be considered a violation of Temple University's Academic Honesty policy and Student Conduct Code, since the work is not your own. The use of unauthorized AI tools will result in a grade of zero on the assignment; a second offense will be reported to the Student Conduct Board.    Incomplete Grades  The grade \"I\" (an \"incomplete\") is only given if students cannot complete the course work due to circumstances beyond their control. It is necessary for the student to have completed the majority of the course work with a passing average and to sign an incomplete contract which clearly states what is left for the student to do and the deadline by which the work must be completed. The incomplete contract must also include a default grade that will be used in case the \"I\" grade is not resolved by the agreed deadline. See the full policy by clicking here .    Student Support Services  The following academic support services are available to students:      The Math Consulting Center      Student Success Center      University Libraries      Undergraduate Research Support      Career Center      Tuttleman Counseling Services      Disability Resources and Services      If you are experiencing food insecurity or financial struggles, Temple provides resources and support. Notably, the Temple University Cherry Pantry and the Temple University Emergency Student Aid Program are in operation as well as a variety of resources from the Division of Student Affairs.    "
-},
-{
-  "id": "notes-01-13",
-  "level": "1",
-  "url": "notes-01-13.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Jan 13",
-  "body": " Tuesday, Jan 13   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Sec 1.1: Sets  In prior math courses, you mostly asked deterministic questions. Now, we need new tools to model randomness .    A toxin molecule in a cell has a certain chance each minute to leave the cell.      A patient takes a diagnostic test for a disease and wants to know the chance that they have the disease based on the test result.      The sample space , often denoted , is the set of all possible results of an experiment. A single result is called an outcome , while a collection of results is called an event .      An experiment consists of rolling a standard 6-sided die (D6). The sample space is . One possible event is , i.e., the event that the result of the roll is even.    Note: we'll use notation like D6 to indicate a 6-sided die with faces 1, 2, 3, 4, 5, 6. Similarly, for example, D4 will indicate a 4-sided die with faces 1, 2, 3, 4.    The symbol means \"is an element of\", as in .  The symbol means \"is a subset of\", as in . This means that every element of the set is also an element of the set .      Consider sets and , each contained inside . We can combine sets in a variety of ways:   Union  The union of and is the set .    Intersection  The intersection of and is the set .    Difference  The set difference  is the set .    Complement  The complement of is the set .    Empty Set  The empty set , usually written or , is the set which contains no elements.       It's useful sometimes to draw pictures called Venn diagrams representing set interactions.     Union    Venn diagram showing sets with the region representing shaded.       Intersection    Venn diagram showing sets with the region representing shaded.         Difference    Venn diagram showing sets with the region representing shaded.       Complement    Venn diagram showing set with the region representing shaded.          Sec 1.2: Probability  Next, we want to start assigning probabilities to each individual outcome so we can then find the probabilities of events.    An experiment consists of rolling a D6. The sample space is . We might assign probabilities as follows:   Distribution for a fair die        1     2     3     4     5     6      Note that we don't have to assign the same probability to each outcome. If we do, we call this distribution uniform . If we have some event, such as , then we calculate the probability of the event by adding together the probabilities of the outcomes that make up the event: Note that this is the same result that we would get if we counted the total number of outcomes in and divided by the total number of outcomes in .      Given a finite set , the cardinality of , written , is the number of elements in .      If is a finite probability space with the uniform distribution and is an event, then:       Suppose we have a weighted die that's much more likely to come up 6 than any other outcome.   Distribution for a fair die        1  0.1    2  0.1    3  0.1    4  0.2    5  0.1    6  0.4     With this distribution, if , then:       Pick a number from 1 to 10. What is the probability of picking 3?  Some considerations:   Are we using the uniform distribution?    What even is the sample space here? Do we need to pick only integers, or is an outcome here?    What would \"uniform\" mean if the sample space was infinite?         A probability distribution on a sample space assigns probabilities to every event, satisfying the following conditions:    .     for any event .    If , then .         Suppose we flip a coin until we see heads. The sample space is . What would \"uniform\" mean here? Is there any way we could assign the same probability to each individual outcome here?  Instead of \"uniform\", what if we want to treat the coin as a fair coin? Then what would the distribution be?   Distribution assuming a fair coin     # flips      1      2      3      4                         One last (very useful!) observation. Recall: If , then .  For any event , and . So: We can rewrite this in two useful ways:      "
-},
-{
-  "id": "subsec-Sets-2",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Sets-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "deterministic randomness "
-},
-{
-  "id": "subsec-Sets-3",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Sets-3",
-  "type": "Example",
-  "number": "1",
-  "title": "",
-  "body": "  A toxin molecule in a cell has a certain chance each minute to leave the cell.   "
-},
-{
-  "id": "subsec-Sets-4",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Sets-4",
-  "type": "Example",
-  "number": "2",
-  "title": "",
-  "body": "  A patient takes a diagnostic test for a disease and wants to know the chance that they have the disease based on the test result.   "
-},
-{
-  "id": "def-sample-space",
-  "level": "2",
-  "url": "notes-01-13.html#def-sample-space",
-  "type": "Definition",
-  "number": "3",
-  "title": "",
-  "body": "  The sample space , often denoted , is the set of all possible results of an experiment. A single result is called an outcome , while a collection of results is called an event .   "
-},
-{
-  "id": "example-sample-space",
-  "level": "2",
-  "url": "notes-01-13.html#example-sample-space",
-  "type": "Example",
-  "number": "4",
-  "title": "",
-  "body": "  An experiment consists of rolling a standard 6-sided die (D6). The sample space is . One possible event is , i.e., the event that the result of the roll is even.   "
-},
-{
-  "id": "def-subset",
-  "level": "2",
-  "url": "notes-01-13.html#def-subset",
-  "type": "Definition",
-  "number": "5",
-  "title": "",
-  "body": "  The symbol means \"is an element of\", as in .  The symbol means \"is a subset of\", as in . This means that every element of the set is also an element of the set .   "
-},
-{
-  "id": "def-set-operations",
-  "level": "2",
-  "url": "notes-01-13.html#def-set-operations",
-  "type": "Definition",
-  "number": "6",
-  "title": "",
-  "body": "  Consider sets and , each contained inside . We can combine sets in a variety of ways:   Union  The union of and is the set .    Intersection  The intersection of and is the set .    Difference  The set difference  is the set .    Complement  The complement of is the set .    Empty Set  The empty set , usually written or , is the set which contains no elements.      "
-},
-{
-  "id": "subsec-Sets-10",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Sets-10",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Venn diagrams "
-},
-{
-  "id": "fig-Venn-diagram-union",
-  "level": "2",
-  "url": "notes-01-13.html#fig-Venn-diagram-union",
-  "type": "Figure",
-  "number": "7",
-  "title": "",
-  "body": " Union    Venn diagram showing sets with the region representing shaded.     "
-},
-{
-  "id": "fig-Venn-diagram-intersection",
-  "level": "2",
-  "url": "notes-01-13.html#fig-Venn-diagram-intersection",
-  "type": "Figure",
-  "number": "8",
-  "title": "",
-  "body": " Intersection    Venn diagram showing sets with the region representing shaded.     "
-},
-{
-  "id": "fig-Venn-diagram-difference",
-  "level": "2",
-  "url": "notes-01-13.html#fig-Venn-diagram-difference",
-  "type": "Figure",
-  "number": "9",
-  "title": "",
-  "body": " Difference    Venn diagram showing sets with the region representing shaded.     "
-},
-{
-  "id": "fig-Venn-diagram-complement",
-  "level": "2",
-  "url": "notes-01-13.html#fig-Venn-diagram-complement",
-  "type": "Figure",
-  "number": "10",
-  "title": "",
-  "body": " Complement    Venn diagram showing set with the region representing shaded.     "
-},
-{
-  "id": "subsec-Probability-3",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-3",
-  "type": "Example",
-  "number": "11",
-  "title": "",
-  "body": "  An experiment consists of rolling a D6. The sample space is . We might assign probabilities as follows:   Distribution for a fair die        1     2     3     4     5     6      Note that we don't have to assign the same probability to each outcome. If we do, we call this distribution uniform . If we have some event, such as , then we calculate the probability of the event by adding together the probabilities of the outcomes that make up the event: Note that this is the same result that we would get if we counted the total number of outcomes in and divided by the total number of outcomes in .   "
-},
-{
-  "id": "def-cardinality",
-  "level": "2",
-  "url": "notes-01-13.html#def-cardinality",
-  "type": "Definition",
-  "number": "13",
-  "title": "",
-  "body": "  Given a finite set , the cardinality of , written , is the number of elements in .   "
-},
-{
-  "id": "subsec-Probability-5",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-5",
-  "type": "Fact",
-  "number": "14",
-  "title": "",
-  "body": "  If is a finite probability space with the uniform distribution and is an event, then:    "
-},
-{
-  "id": "subsec-Probability-6",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-6",
-  "type": "Example",
-  "number": "15",
-  "title": "",
-  "body": "  Suppose we have a weighted die that's much more likely to come up 6 than any other outcome.   Distribution for a fair die        1  0.1    2  0.1    3  0.1    4  0.2    5  0.1    6  0.4     With this distribution, if , then:    "
-},
-{
-  "id": "subsec-Probability-7",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-7",
-  "type": "Example",
-  "number": "17",
-  "title": "",
-  "body": "  Pick a number from 1 to 10. What is the probability of picking 3?  Some considerations:   Are we using the uniform distribution?    What even is the sample space here? Do we need to pick only integers, or is an outcome here?    What would \"uniform\" mean if the sample space was infinite?      "
-},
-{
-  "id": "def-probability-distribution",
-  "level": "2",
-  "url": "notes-01-13.html#def-probability-distribution",
-  "type": "Definition",
-  "number": "18",
-  "title": "",
-  "body": "  A probability distribution on a sample space assigns probabilities to every event, satisfying the following conditions:    .     for any event .    If , then .      "
-},
-{
-  "id": "subsec-Probability-9",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-9",
-  "type": "Example",
-  "number": "19",
-  "title": "",
-  "body": "  Suppose we flip a coin until we see heads. The sample space is . What would \"uniform\" mean here? Is there any way we could assign the same probability to each individual outcome here?  Instead of \"uniform\", what if we want to treat the coin as a fair coin? Then what would the distribution be?   Distribution assuming a fair coin     # flips      1      2      3      4                      "
-},
-{
-  "id": "subsec-Probability-10",
-  "level": "2",
-  "url": "notes-01-13.html#subsec-Probability-10",
-  "type": "Example",
-  "number": "21",
-  "title": "",
-  "body": "  One last (very useful!) observation. Recall: If , then .  For any event , and . So: We can rewrite this in two useful ways:    "
-},
-{
-  "id": "notes-01-15",
-  "level": "1",
-  "url": "notes-01-15.html",
-  "type": "Section",
-  "number": "",
-  "title": "Thursday, Jan 15",
-  "body": " Thursday, Jan 15   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Sec 1.3: Conditional Probability  Question: How does evidence (e.g., knowledge of one event occurring) change our knowledge of probabilities for other events?    Roll a fair D6 two times. Let and . feels more likely if we already know has occurred.      The conditional probability of given is: ,    tells the proportion of which is overlapped by .    Two overlapping circles representing events and sit inside a rectangle representing the sample space . The circle labeled is shaded. The portion of that circle which is overlapped by the circle is also filled in with slanted lines.          Continuing from the previous example, . So . Then: Notice that is significantly larger than .      Diagnostic Testing  Setup: A patient takes a diagnostic test. Let be the event that they test positive. Let be the event that they have the disease.    The sensitivity of a diagnostic test is . The specificity of a diagnostic test is .    But, what the patient really wants to know is .    A disease has a prevalence of 1%. A test has sensitivity of 90% and specificity of 91%. For a patient who gets a positive test result, what is the probability that they have the disease?       C!     Bayes' Theorem (v1)   For events with nonzero probability:     For example, if a patient sees a positive diagnostic test result, they might try to calculate:  is the sensitivity. could be the prevalence. We don't have direct access to .  Observation: , so .            Observation 2: So:    Bayes' Theorem (v2)          Continuing from the previous example: What if the patient got a negative test result instead? In that case, what is the probaiblity they do not have the disease?       Sec 1.4: Independent Events  Question: is supposed to capture how information about affects the probability of . What if it doesn't?    Events are independent if .    Observation: If have nonzero probability and are independent, then: We can take this last equation as a definition of independence.    Continuing , recall and . We found that , so and are not independent.  Now consider the event . We have: Therefore events are independent.     "
-},
-{
-  "id": "subsec-Conditional-Probability-3",
-  "level": "2",
-  "url": "notes-01-15.html#subsec-Conditional-Probability-3",
-  "type": "Example",
-  "number": "22",
-  "title": "",
-  "body": "  Roll a fair D6 two times. Let and . feels more likely if we already know has occurred.   "
-},
-{
-  "id": "def-conditional-probability",
-  "level": "2",
-  "url": "notes-01-15.html#def-conditional-probability",
-  "type": "Definition",
-  "number": "23",
-  "title": "",
-  "body": "  The conditional probability of given is: ,    tells the proportion of which is overlapped by .    Two overlapping circles representing events and sit inside a rectangle representing the sample space . The circle labeled is shaded. The portion of that circle which is overlapped by the circle is also filled in with slanted lines.       "
-},
-{
-  "id": "example-rolls-conditional",
-  "level": "2",
-  "url": "notes-01-15.html#example-rolls-conditional",
-  "type": "Example",
-  "number": "25",
-  "title": "",
-  "body": "  Continuing from the previous example, . So . Then: Notice that is significantly larger than .   "
-},
-{
-  "id": "def-sensitivity-specificity",
-  "level": "2",
-  "url": "notes-01-15.html#def-sensitivity-specificity",
-  "type": "Definition",
-  "number": "26",
-  "title": "",
-  "body": "  The sensitivity of a diagnostic test is . The specificity of a diagnostic test is .   "
-},
-{
-  "id": "subsec-Diagnostic-Testing-5",
-  "level": "2",
-  "url": "notes-01-15.html#subsec-Diagnostic-Testing-5",
-  "type": "Example",
-  "number": "27",
-  "title": "",
-  "body": "  A disease has a prevalence of 1%. A test has sensitivity of 90% and specificity of 91%. For a patient who gets a positive test result, what is the probability that they have the disease?       C!   "
-},
-{
-  "id": "thm-Bayes-v1",
-  "level": "2",
-  "url": "notes-01-15.html#thm-Bayes-v1",
-  "type": "Theorem",
-  "number": "28",
-  "title": "Bayes’ Theorem (v1).",
-  "body": " Bayes' Theorem (v1)   For events with nonzero probability:    "
-},
-{
-  "id": "fig-P-breakdown",
-  "level": "2",
-  "url": "notes-01-15.html#fig-P-breakdown",
-  "type": "Figure",
-  "number": "29",
-  "title": "",
-  "body": "         "
-},
-{
-  "id": "thm-Bayes-v2",
-  "level": "2",
-  "url": "notes-01-15.html#thm-Bayes-v2",
-  "type": "Theorem",
-  "number": "30",
-  "title": "Bayes’ Theorem (v2).",
-  "body": " Bayes' Theorem (v2)       "
-},
-{
-  "id": "subsec-Diagnostic-Testing-12",
-  "level": "2",
-  "url": "notes-01-15.html#subsec-Diagnostic-Testing-12",
-  "type": "Example",
-  "number": "31",
-  "title": "",
-  "body": "  Continuing from the previous example: What if the patient got a negative test result instead? In that case, what is the probaiblity they do not have the disease?    "
-},
-{
-  "id": "def-independent-events",
-  "level": "2",
-  "url": "notes-01-15.html#def-independent-events",
-  "type": "Definition",
-  "number": "32",
-  "title": "",
-  "body": "  Events are independent if .   "
-},
-{
-  "id": "example-rolls-independent",
-  "level": "2",
-  "url": "notes-01-15.html#example-rolls-independent",
-  "type": "Example",
-  "number": "33",
-  "title": "",
-  "body": "  Continuing , recall and . We found that , so and are not independent.  Now consider the event . We have: Therefore events are independent.   "
-},
-{
-  "id": "notes-01-20",
-  "level": "1",
-  "url": "notes-01-20.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Jan 20",
-  "body": " Tuesday, Jan 20   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    HW 1 Q5  Write for the event that there's a fire and for the event that there's visible smoke. Then the information we're given can be interpreted as: In this case, we can use the simpler version of Bayes' Theorem: Unlike our usual diagnostic testing examples, we do have access to the denominator probability here.    Sec 2.1: Random Variables    A random variable is a function .    The idea is that is a variable representing a real number value which depends on the outcome of an experiment.    An experiment consists of planting 50 seeds in a garden, then growing them for 3 months. Let be the height of plant . Let be the number of seeds that didn't sprout. Let     A random variable has its own probability distribution.    Roll a fair D6 twice. Let be the sum of the rolls. Then has 36 elements. Since the die is fair, the distribution on is uniform, i.e., for any .   takes on the values , with probabilities:   Distribution for        2  1\/36    3  2\/36    4  3\/36        7  6\/36    8  5\/36        12  1\/36     Note that the distribution on is uniform, but the distribution on is not.      Let be a sample space and an event. Let  is called an indicator random variable , and we say \"  indicates  \".  The distribution on is:       Suppose we flip a coin times. Let indicate heads on flip . Let be the total number of heads in all flips. Then: If is the probability of the coin coming up heads on a flip, then has the binomial distribution with parameters . We'll use the notation and:   Suppose the coin has and we flip it times. Find .  The relevant flip sequences are: Each individual sequence has a probability of . So the total probability is: That is, (number of flip sequences)(probability of each sequence).     "
-},
-{
-  "id": "def-RV",
-  "level": "2",
-  "url": "notes-01-20.html#def-RV",
-  "type": "Definition",
-  "number": "34",
-  "title": "",
-  "body": "  A random variable is a function .   "
-},
-{
-  "id": "subsec-Discrete-Random-Variables-4",
-  "level": "2",
-  "url": "notes-01-20.html#subsec-Discrete-Random-Variables-4",
-  "type": "Example",
-  "number": "35",
-  "title": "",
-  "body": "  An experiment consists of planting 50 seeds in a garden, then growing them for 3 months. Let be the height of plant . Let be the number of seeds that didn't sprout. Let    "
-},
-{
-  "id": "subsec-Discrete-Random-Variables-6",
-  "level": "2",
-  "url": "notes-01-20.html#subsec-Discrete-Random-Variables-6",
-  "type": "Example",
-  "number": "36",
-  "title": "",
-  "body": "  Roll a fair D6 twice. Let be the sum of the rolls. Then has 36 elements. Since the die is fair, the distribution on is uniform, i.e., for any .   takes on the values , with probabilities:   Distribution for        2  1\/36    3  2\/36    4  3\/36        7  6\/36    8  5\/36        12  1\/36     Note that the distribution on is uniform, but the distribution on is not.   "
-},
-{
-  "id": "subsec-Discrete-Random-Variables-7",
-  "level": "2",
-  "url": "notes-01-20.html#subsec-Discrete-Random-Variables-7",
-  "type": "Example",
-  "number": "38",
-  "title": "",
-  "body": "  Let be a sample space and an event. Let  is called an indicator random variable , and we say \"  indicates  \".  The distribution on is:    "
-},
-{
-  "id": "subsec-Discrete-Random-Variables-8",
-  "level": "2",
-  "url": "notes-01-20.html#subsec-Discrete-Random-Variables-8",
-  "type": "Example",
-  "number": "39",
-  "title": "",
-  "body": "  Suppose we flip a coin times. Let indicate heads on flip . Let be the total number of heads in all flips. Then: If is the probability of the coin coming up heads on a flip, then has the binomial distribution with parameters . We'll use the notation and:   Suppose the coin has and we flip it times. Find .  The relevant flip sequences are: Each individual sequence has a probability of . So the total probability is: That is, (number of flip sequences)(probability of each sequence).   "
-},
-{
-  "id": "notes-01-22",
-  "level": "1",
-  "url": "notes-01-22.html",
-  "type": "Section",
-  "number": "",
-  "title": "Thursday, Jan 22",
-  "body": " Thursday, Jan 22   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Discrete Distributions    Suppose we expand . We'll get a polynomial with some coefficients: where , read \" choose \", is the coefficient of .  Alternatively: is the number of ways to pick things out of a set of things. Then: where , read \" factorial\", refers to the product:                   So now we get a general probability formula for the binomial distribution:   Let's see some more important distribution types:    Suppose we have a coin with bias  , i.e., probability of coming up heads. (Note: this is not a common term, but it will be convenient for us to have some terminology for it since we'll refer to this parameter often.) We flip the coin repeatedly until we see heads. Let be the number of flips.       has the geometric distribution with parameter . We'll write , and we'll write: The geometric distribution is given by:   Geometrid Distribution     flip sequences     1  H     2  TH     3  TTH     4  TTTH      In general:       Suppose a toxin molecule inside a cell has a 0.2 chance of leaving during each minute. Let be the number of minutes until the molecule leaves. Find   If , then is either 1, 2, or 3.       A Poisson process is a process in which some event occurs at a constant probabilistic rate . Suppose we observe a Poisson process for time. Let be the number of occurrences of the event during that observation time. Then has the Poisson distribution with parameters . We'll write , and:       Consider the following examples:   A radioactive material emmitting particles as it decays.    A call center receiving calls.    A stretch of highways seeing cars pass by.         Suppose a highway typically has 200 cars per hour. Let be the number of cars in a 30-minute observation period. Then , so . Then:       Continuous Distributions    Suppose we pick a real number uniformly. Intuitively, we can say things like and . What aobut   Assigning probabilities to individual outcomes isn't useful here. Instead, we assign probabilities to intervals of the form .      Let be a random variable. If takes an interval's worth of values, then it's called continuous . Otherwise, it's called discrete .         Indicator, Bin, Geom, Poiss are all discrete.    Pick is continuous.    Height of a plant is continuous.    Time is often (but not always) treated as continuous.         Let be a continuous random variable. A probability density function (pdf) for is a function such that:    for all , and,     , where indicates that we should integrate over the entire range of possible values of .   Given a pdf for :       Pick uniformly. Because of the uniform assumption, must be a constant function for some . To find : More generally, if is chosen uniformly, then the pdf would be:      "
-},
-{
-  "id": "thm-binomial",
-  "level": "2",
-  "url": "notes-01-22.html#thm-binomial",
-  "type": "Theorem",
-  "number": "40",
-  "title": "",
-  "body": "  Suppose we expand . We'll get a polynomial with some coefficients: where , read \" choose \", is the coefficient of .  Alternatively: is the number of ways to pick things out of a set of things. Then: where , read \" factorial\", refers to the product:    "
-},
-{
-  "id": "subsec-discrete-distributions-3",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-3",
-  "type": "Fact",
-  "number": "41",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "subsec-discrete-distributions-4",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-4",
-  "type": "Example",
-  "number": "42",
-  "title": "",
-  "body": "      "
-},
-{
-  "id": "subsec-discrete-distributions-7",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-7",
-  "type": "Example",
-  "number": "43",
-  "title": "",
-  "body": "  Suppose we have a coin with bias  , i.e., probability of coming up heads. (Note: this is not a common term, but it will be convenient for us to have some terminology for it since we'll refer to this parameter often.) We flip the coin repeatedly until we see heads. Let be the number of flips.   "
-},
-{
-  "id": "subsec-discrete-distributions-8",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-8",
-  "type": "Definition",
-  "number": "44",
-  "title": "",
-  "body": "   has the geometric distribution with parameter . We'll write , and we'll write: The geometric distribution is given by:   Geometrid Distribution     flip sequences     1  H     2  TH     3  TTH     4  TTTH      In general:    "
-},
-{
-  "id": "subsec-discrete-distributions-9",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-9",
-  "type": "Example",
-  "number": "46",
-  "title": "",
-  "body": "  Suppose a toxin molecule inside a cell has a 0.2 chance of leaving during each minute. Let be the number of minutes until the molecule leaves. Find   If , then is either 1, 2, or 3.    "
-},
-{
-  "id": "subsec-discrete-distributions-10",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-10",
-  "type": "Definition",
-  "number": "47",
-  "title": "",
-  "body": "  A Poisson process is a process in which some event occurs at a constant probabilistic rate . Suppose we observe a Poisson process for time. Let be the number of occurrences of the event during that observation time. Then has the Poisson distribution with parameters . We'll write , and:    "
-},
-{
-  "id": "subsec-discrete-distributions-11",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-11",
-  "type": "Example",
-  "number": "48",
-  "title": "",
-  "body": "  Consider the following examples:   A radioactive material emmitting particles as it decays.    A call center receiving calls.    A stretch of highways seeing cars pass by.      "
-},
-{
-  "id": "subsec-discrete-distributions-12",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-discrete-distributions-12",
-  "type": "Example",
-  "number": "49",
-  "title": "",
-  "body": "  Suppose a highway typically has 200 cars per hour. Let be the number of cars in a 30-minute observation period. Then , so . Then:    "
-},
-{
-  "id": "subsec-continuous-distributions-2",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-continuous-distributions-2",
-  "type": "Example",
-  "number": "50",
-  "title": "",
-  "body": "  Suppose we pick a real number uniformly. Intuitively, we can say things like and . What aobut   Assigning probabilities to individual outcomes isn't useful here. Instead, we assign probabilities to intervals of the form .   "
-},
-{
-  "id": "subsec-continuous-distributions-3",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-continuous-distributions-3",
-  "type": "Definition",
-  "number": "51",
-  "title": "",
-  "body": "  Let be a random variable. If takes an interval's worth of values, then it's called continuous . Otherwise, it's called discrete .   "
-},
-{
-  "id": "subsec-continuous-distributions-4",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-continuous-distributions-4",
-  "type": "Example",
-  "number": "52",
-  "title": "",
-  "body": "     Indicator, Bin, Geom, Poiss are all discrete.    Pick is continuous.    Height of a plant is continuous.    Time is often (but not always) treated as continuous.      "
-},
-{
-  "id": "subsec-continuous-distributions-5",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-continuous-distributions-5",
-  "type": "Definition",
-  "number": "53",
-  "title": "",
-  "body": "  Let be a continuous random variable. A probability density function (pdf) for is a function such that:    for all , and,     , where indicates that we should integrate over the entire range of possible values of .   Given a pdf for :    "
-},
-{
-  "id": "subsec-continuous-distributions-6",
-  "level": "2",
-  "url": "notes-01-22.html#subsec-continuous-distributions-6",
-  "type": "Example",
-  "number": "54",
-  "title": "",
-  "body": "  Pick uniformly. Because of the uniform assumption, must be a constant function for some . To find : More generally, if is chosen uniformly, then the pdf would be:    "
-},
-{
-  "id": "notes-01-27",
-  "level": "1",
-  "url": "notes-01-27.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Jan 27",
-  "body": " Tuesday, Jan 27   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Continuous Distributions    Let with . Find . Then, we can calculate probabilities, e.g.:     Note: a pdf outputs probability densities, not probabilities. To get probabilities, we must integrate.    Let be a continuous random variable with values in . The cumulative distribution function (cdf) is: To calculate it:       Let . Then: Then, we can calculate probabilities, e.g.:     Given , we can find by calculating: Given , we can find by calculating:     Suppose a machine needs repairs on average twice per month. Let be the time until repair. This is a Poisson process ( per month).       is said to have the exponential distribution with parameter . We'll write . The exponential density function is:       Let . Then: So, e.g.:      The distributions Bin, Geom, Poiss, and Exp are conceptually linked.   Relationship of common distributions     Counting Events  Time Until    Discrete Time  Bin  Geom    Continuous Time  Poiss  Exp        Joint Distributions    Let take values and take values . The joint distribution of and is the collection of all values for every combination. The separarte distributions for and are called marginal distributions .      Suppose , with joint distribution below.   Example Joint Distribution           0.1  0.15  0.05     0.2  0.2  0.3     We find the marginal distribution for by summing along the columns: We find the marginal distribution for by summing along the rows:       Random variables are independent if: for every combination.      In the previous example: so are not independent.      Let indicate heads on the first and second flip, respectively, of a fair coin. Then:   Joint Distribution for Indicator Random Variables          1\/4  1\/4     1\/4  1\/4     Then the marginal distributions are: Then, for any : So are independent.     "
-},
-{
-  "id": "subsec-continuous-2-2",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-2",
-  "type": "Example",
-  "number": "55",
-  "title": "",
-  "body": "  Let with . Find . Then, we can calculate probabilities, e.g.:    "
-},
-{
-  "id": "def-cdf",
-  "level": "2",
-  "url": "notes-01-27.html#def-cdf",
-  "type": "Definition",
-  "number": "56",
-  "title": "",
-  "body": "  Let be a continuous random variable with values in . The cumulative distribution function (cdf) is: To calculate it:    "
-},
-{
-  "id": "subsec-continuous-2-5",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-5",
-  "type": "Example",
-  "number": "57",
-  "title": "",
-  "body": "  Let . Then: Then, we can calculate probabilities, e.g.:    "
-},
-{
-  "id": "subsec-continuous-2-7",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-7",
-  "type": "Example",
-  "number": "58",
-  "title": "",
-  "body": "  Suppose a machine needs repairs on average twice per month. Let be the time until repair. This is a Poisson process ( per month).   "
-},
-{
-  "id": "subsec-continuous-2-8",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-8",
-  "type": "Definition",
-  "number": "59",
-  "title": "",
-  "body": "   is said to have the exponential distribution with parameter . We'll write . The exponential density function is:    "
-},
-{
-  "id": "subsec-continuous-2-9",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-9",
-  "type": "Example",
-  "number": "60",
-  "title": "",
-  "body": "  Let . Then: So, e.g.:    "
-},
-{
-  "id": "subsec-continuous-2-10",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-continuous-2-10",
-  "type": "Remark",
-  "number": "61",
-  "title": "",
-  "body": " The distributions Bin, Geom, Poiss, and Exp are conceptually linked.   Relationship of common distributions     Counting Events  Time Until    Discrete Time  Bin  Geom    Continuous Time  Poiss  Exp     "
-},
-{
-  "id": "subsec-Joint-Distributions-2",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-Joint-Distributions-2",
-  "type": "Definition",
-  "number": "63",
-  "title": "",
-  "body": "  Let take values and take values . The joint distribution of and is the collection of all values for every combination. The separarte distributions for and are called marginal distributions .   "
-},
-{
-  "id": "subsec-Joint-Distributions-3",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-Joint-Distributions-3",
-  "type": "Example",
-  "number": "64",
-  "title": "",
-  "body": "  Suppose , with joint distribution below.   Example Joint Distribution           0.1  0.15  0.05     0.2  0.2  0.3     We find the marginal distribution for by summing along the columns: We find the marginal distribution for by summing along the rows:    "
-},
-{
-  "id": "subsec-Joint-Distributions-4",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-Joint-Distributions-4",
-  "type": "Definition",
-  "number": "66",
-  "title": "",
-  "body": "  Random variables are independent if: for every combination.   "
-},
-{
-  "id": "subsec-Joint-Distributions-5",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-Joint-Distributions-5",
-  "type": "Example",
-  "number": "67",
-  "title": "",
-  "body": "  In the previous example: so are not independent.   "
-},
-{
-  "id": "subsec-Joint-Distributions-6",
-  "level": "2",
-  "url": "notes-01-27.html#subsec-Joint-Distributions-6",
-  "type": "Example",
-  "number": "68",
-  "title": "",
-  "body": "  Let indicate heads on the first and second flip, respectively, of a fair coin. Then:   Joint Distribution for Indicator Random Variables          1\/4  1\/4     1\/4  1\/4     Then the marginal distributions are: Then, for any : So are independent.   "
-},
-{
-  "id": "notes-01-29",
-  "level": "1",
-  "url": "notes-01-29.html",
-  "type": "Section",
-  "number": "",
-  "title": "Thursday, Jan 29",
-  "body": " Thursday, Jan 29   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Expected Value    Let be the roll of a fair D6. What is the average value of ? The sample space is . To find the average: That is: take each value of , multiply by the probability, and add all the results together.      Given a distribution table:   Distribution        1  0.1    2  0.1    3  0.1    4  0.1    5  0.1    6  0.5     Then the average is:       Let be a discrete random variable taking values with probabilities . The expected value of is:       Let indicate , with . Then: That is: \"E(indicator random variable) = Pr(event that it indicates)\".      Suppose we flip a fair coin 100 times. Let indicate heads on each flip. Then , so for every .  What if indicates a run of 4 heads starting at flip 3? That is, flips 3, 4, 5, and 6 must come up heads, and all other flips can come up either heads or tails. Since these flip results are independent, the probabilities multiply:       Let be a continuous random variable with pdf . The expected value of is:     It's worth putting this side-by-side with to compare the structure of each formula. These both say: \"multiply each value of the random variable by the probability, then accumulate all of those products\". Expected value is a weighted average of random variable values, with the probabilities as the weights.    Let with pdf . Then: What would happen if you forgot the ? Then the calculation would become: This mistake will often be easy to catch. For example, this random variable takes values between 0 and 1, so it doesn't seem very likely that the average value is 1!      Find given a distribution for .   Distribution for        -1  0.4    1  0.1    2  0.2    3  0.3     We can start by writing a distribution table for :   Distribution for        1  0.5    4  0.2    9  0.3     Then:       If takes on values with probabilities , and is any function, then:       Revisiting the previous example, the theorem says we don't need to first create the distribution table for . We can use the distribution table for , and just apply the square to each value:       The situation with continuous random variables is similar. Let with pdf . Then: Notice, in particular, that       If are random variables with finite expected value and , then:       Let be the number of heads in coin flips with bias . Then . Gross.  Instead of calculating this directly, define to indicate heads on each flip. Then:       Flip a fair coin 100 times. Then, the expected number of heads is:       Flip a fair coin 100 times. What is the expected number of runs of 4 heads? As in the binomial EV calculation, define indicator random variables each indicating a run of 4 heads starting at the specified flip. Then for each . Let be the number of runs of 4 heads. Then:       Consider a geometric distribution .   Geometric Distribution      with    1      2      3      4            Then is an infinite summation.  Instead, consider the following argument. If we flip a coin until we see heads, we either see heads on flip 1 or not. In the first case, . In the second case, what is the average value of ? Starting at flip 2, it will take on average flips to see heads. Since we already flipped the coin once, the total number of flips will be . So, we can write:      "
-},
-{
-  "id": "notes-01-29-3-2",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-2",
-  "type": "Example",
-  "number": "70",
-  "title": "",
-  "body": "  Let be the roll of a fair D6. What is the average value of ? The sample space is . To find the average: That is: take each value of , multiply by the probability, and add all the results together.   "
-},
-{
-  "id": "notes-01-29-3-3",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-3",
-  "type": "Example",
-  "number": "71",
-  "title": "",
-  "body": "  Given a distribution table:   Distribution        1  0.1    2  0.1    3  0.1    4  0.1    5  0.1    6  0.5     Then the average is:    "
-},
-{
-  "id": "def-discrete-EV",
-  "level": "2",
-  "url": "notes-01-29.html#def-discrete-EV",
-  "type": "Definition",
-  "number": "73",
-  "title": "",
-  "body": "  Let be a discrete random variable taking values with probabilities . The expected value of is:    "
-},
-{
-  "id": "notes-01-29-3-5",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-5",
-  "type": "Example",
-  "number": "74",
-  "title": "",
-  "body": "  Let indicate , with . Then: That is: \"E(indicator random variable) = Pr(event that it indicates)\".   "
-},
-{
-  "id": "notes-01-29-3-6",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-6",
-  "type": "Example",
-  "number": "75",
-  "title": "",
-  "body": "  Suppose we flip a fair coin 100 times. Let indicate heads on each flip. Then , so for every .  What if indicates a run of 4 heads starting at flip 3? That is, flips 3, 4, 5, and 6 must come up heads, and all other flips can come up either heads or tails. Since these flip results are independent, the probabilities multiply:    "
-},
-{
-  "id": "def-continuous-EV",
-  "level": "2",
-  "url": "notes-01-29.html#def-continuous-EV",
-  "type": "Definition",
-  "number": "76",
-  "title": "",
-  "body": "  Let be a continuous random variable with pdf . The expected value of is:    "
-},
-{
-  "id": "notes-01-29-3-9",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-9",
-  "type": "Example",
-  "number": "77",
-  "title": "",
-  "body": "  Let with pdf . Then: What would happen if you forgot the ? Then the calculation would become: This mistake will often be easy to catch. For example, this random variable takes values between 0 and 1, so it doesn't seem very likely that the average value is 1!   "
-},
-{
-  "id": "notes-01-29-3-10",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-10",
-  "type": "Example",
-  "number": "78",
-  "title": "",
-  "body": "  Find given a distribution for .   Distribution for        -1  0.4    1  0.1    2  0.2    3  0.3     We can start by writing a distribution table for :   Distribution for        1  0.5    4  0.2    9  0.3     Then:    "
-},
-{
-  "id": "notes-01-29-3-11",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-11",
-  "type": "Theorem",
-  "number": "81",
-  "title": "",
-  "body": "  If takes on values with probabilities , and is any function, then:    "
-},
-{
-  "id": "notes-01-29-3-12",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-12",
-  "type": "Example",
-  "number": "82",
-  "title": "",
-  "body": "  Revisiting the previous example, the theorem says we don't need to first create the distribution table for . We can use the distribution table for , and just apply the square to each value:    "
-},
-{
-  "id": "notes-01-29-3-13",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-13",
-  "type": "Example",
-  "number": "83",
-  "title": "",
-  "body": "  The situation with continuous random variables is similar. Let with pdf . Then: Notice, in particular, that    "
-},
-{
-  "id": "thm-linearity",
-  "level": "2",
-  "url": "notes-01-29.html#thm-linearity",
-  "type": "Theorem",
-  "number": "84",
-  "title": "",
-  "body": "  If are random variables with finite expected value and , then:    "
-},
-{
-  "id": "notes-01-29-3-15",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-15",
-  "type": "Example",
-  "number": "85",
-  "title": "",
-  "body": "  Let be the number of heads in coin flips with bias . Then . Gross.  Instead of calculating this directly, define to indicate heads on each flip. Then:    "
-},
-{
-  "id": "notes-01-29-3-16",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-16",
-  "type": "Example",
-  "number": "86",
-  "title": "",
-  "body": "  Flip a fair coin 100 times. Then, the expected number of heads is:    "
-},
-{
-  "id": "notes-01-29-3-17",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-17",
-  "type": "Example",
-  "number": "87",
-  "title": "",
-  "body": "  Flip a fair coin 100 times. What is the expected number of runs of 4 heads? As in the binomial EV calculation, define indicator random variables each indicating a run of 4 heads starting at the specified flip. Then for each . Let be the number of runs of 4 heads. Then:    "
-},
-{
-  "id": "notes-01-29-3-18",
-  "level": "2",
-  "url": "notes-01-29.html#notes-01-29-3-18",
-  "type": "Example",
-  "number": "88",
-  "title": "",
-  "body": "  Consider a geometric distribution .   Geometric Distribution      with    1      2      3      4            Then is an infinite summation.  Instead, consider the following argument. If we flip a coin until we see heads, we either see heads on flip 1 or not. In the first case, . In the second case, what is the average value of ? Starting at flip 2, it will take on average flips to see heads. Since we already flipped the coin once, the total number of flips will be . So, we can write:    "
-},
-{
-  "id": "notes-02-03",
-  "level": "1",
-  "url": "notes-02-03.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Feb 3",
-  "body": " Tuesday, Feb 3   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Variance  Question: How spread out are values? One answer we might try is to measure the average distance from the average value: To simplify notation, we'll write . Also, it's often usefull to square a term rather than take absolute value when we want to ensure a positive output, so we'll define...    Let be a random variable with . The variance of is:  is called the standard deviation .    We can write an alternative formula here: This formula is generally more useful for performing computations.    Let indicate event with .    Distribution for                  Distribution for                  Then and , so:       Let be the roll of a fair D6.    Distribution for                                  Distribution for                                  Then and , so:       Let with pdf .     WARNING!!! In general, variance is not linear! That is, But there are still relevant properties we can state here:    Let be a random variable and . Then: Moreover, if is another random variable and are independent, then:       Let be indicators with parameter . Let , so . We know , and are independent. So:      "
-},
-{
-  "id": "def-variance",
-  "level": "2",
-  "url": "notes-02-03.html#def-variance",
-  "type": "Definition",
-  "number": "90",
-  "title": "",
-  "body": "  Let be a random variable with . The variance of is:  is called the standard deviation .   "
-},
-{
-  "id": "notes-02-03-3-5",
-  "level": "2",
-  "url": "notes-02-03.html#notes-02-03-3-5",
-  "type": "Example",
-  "number": "91",
-  "title": "",
-  "body": "  Let indicate event with .    Distribution for                  Distribution for                  Then and , so:    "
-},
-{
-  "id": "notes-02-03-3-6",
-  "level": "2",
-  "url": "notes-02-03.html#notes-02-03-3-6",
-  "type": "Example",
-  "number": "94",
-  "title": "",
-  "body": "  Let be the roll of a fair D6.    Distribution for                                  Distribution for                                  Then and , so:    "
-},
-{
-  "id": "notes-02-03-3-7",
-  "level": "2",
-  "url": "notes-02-03.html#notes-02-03-3-7",
-  "type": "Example",
-  "number": "97",
-  "title": "",
-  "body": "  Let with pdf .    "
-},
-{
-  "id": "notes-02-03-3-9",
-  "level": "2",
-  "url": "notes-02-03.html#notes-02-03-3-9",
-  "type": "Theorem",
-  "number": "98",
-  "title": "",
-  "body": "  Let be a random variable and . Then: Moreover, if is another random variable and are independent, then:    "
-},
-{
-  "id": "notes-02-03-3-10",
-  "level": "2",
-  "url": "notes-02-03.html#notes-02-03-3-10",
-  "type": "Example",
-  "number": "99",
-  "title": "",
-  "body": "  Let be indicators with parameter . Let , so . We know , and are independent. So:    "
-},
-{
-  "id": "notes-02-05",
-  "level": "1",
-  "url": "notes-02-05.html",
-  "type": "Section",
-  "number": "",
-  "title": "Thursday, Feb 5",
-  "body": " Thursday, Feb 5   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Summary  Here are the expected value and variance formulas for common distributions. Some of these, we've shown justification for. Others requires techniques beyond the scope of the class to justify.   Expected Value and Variance Formulas    Distribution  Parameters  Expected Value  Variance    Indicator       Binomial       Geometric       Poisson       Exponential          Covariance    If are random variables with expected values of , then the covariance of and is:     Observe that: so covariance generalizes the variance formula to two variables. As with variance, there's an alternative formula more suited to doing computations:     Consider the joint distribution table:   Joint Distribution          0.2  0.1     0.05  0.65     From the table, we can calculate the marginal distributions: So and . Then:     Question: the formula makes it clear that variance cannot be negative, since squares are nonnegative. What about ?    In the previous example, since were both indicator random variables, the variances for each were simply equal to the sum of the second row\/column. Similarly, was equal to the entry in the table. Using two indicator random variables, significantly simplifies the covariance calculation, so we can vary the table and recalculate covariance quickly. Consider the following joint distribution:   Joint Distribution          0.1  0.4     0.3  0.2     Then:     Question: how do we interpret ? is positive when and negative when . is positive when and negative when . So the product is positive when are both larger or both smaller than their expected values, and negative when one is larger and one is smaller. That is, covariance tries to quantify the tendency of to get big\/small at the same time.   "
-},
-{
-  "id": "notes-02-05-3-3",
-  "level": "2",
-  "url": "notes-02-05.html#notes-02-05-3-3",
-  "type": "Table",
-  "number": "100",
-  "title": "Expected Value and Variance Formulas",
-  "body": " Expected Value and Variance Formulas    Distribution  Parameters  Expected Value  Variance    Indicator       Binomial       Geometric       Poisson       Exponential       "
-},
-{
-  "id": "notes-02-05-4-2",
-  "level": "2",
-  "url": "notes-02-05.html#notes-02-05-4-2",
-  "type": "Definition",
-  "number": "101",
-  "title": "",
-  "body": "  If are random variables with expected values of , then the covariance of and is:    "
-},
-{
-  "id": "notes-02-05-4-4",
-  "level": "2",
-  "url": "notes-02-05.html#notes-02-05-4-4",
-  "type": "Example",
-  "number": "102",
-  "title": "",
-  "body": "  Consider the joint distribution table:   Joint Distribution          0.2  0.1     0.05  0.65     From the table, we can calculate the marginal distributions: So and . Then:    "
-},
-{
-  "id": "notes-02-05-4-6",
-  "level": "2",
-  "url": "notes-02-05.html#notes-02-05-4-6",
-  "type": "Example",
-  "number": "104",
-  "title": "",
-  "body": "  In the previous example, since were both indicator random variables, the variances for each were simply equal to the sum of the second row\/column. Similarly, was equal to the entry in the table. Using two indicator random variables, significantly simplifies the covariance calculation, so we can vary the table and recalculate covariance quickly. Consider the following joint distribution:   Joint Distribution          0.1  0.4     0.3  0.2     Then:    "
-},
-{
-  "id": "notes-02-10",
-  "level": "1",
-  "url": "notes-02-10.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Feb 10",
-  "body": " Tuesday, Feb 10   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Likelihood  In probability theory, we start with some probability model and its parameter values, and we try to find the probabilities of seeing certain types of data. In statistics, we start with the collected data, and we try to find the most likely values of parameters for some underlying probability model.    An estimator is a way of estimating a parameter value based on data collected.      Suppose we flip a coin 100 times and see 52 heads. Let be the bias of the coin. Then we might estimate: (The notation is sometimes used to indicate an estimator for .)      If we see heads in flips, then the estimator is called the common sense estimator for the binomial distribution parameter .      An estimator is unbiased if .      Flip a coin 100 times, and let be the number of heads. Then . Let . Then: So , i.e., the common sense estimator is unbiased.      We perform an experiment and collect data. Let be an unknown parameter value. The likelihood function is:       Let . Suppose we see 52 heads. Then: In the first line, the variable represents the data. In the second line, the variable represents the parameter value. Our goal, given the collected data, is to find the maximum likelihood estimation (MLE) for the parameter value.   is a continuous function over a closed interval , so we use the Closed Interval Method. Now, we look for critical numbers in the interior of the interval: Finally, we test the critical numbers and the endpoints of the interval to find the max:   Check Candidate Locations for Max                     So is the MLE.  More generally, a similar calculation will show that, with heads in flips, the MLE will be .      Suppose we observe a cell, measuring the time until a toxin molecule leaves the cell. Then for some , with pdf If we see a toxin molecule leave at 0.3 min, what's the MLE for ? We want to maximize over , an open interval. So we'll use the \"Open Interval Method\". Then when . Checking values to the left and the right: So (and therefore is increasing) on , and (and therefore is decreasing) on . Now we can conclude that is the location of a global (and not just local) maximum value.  More generally, if the observed time is , then the MLE will be .  What if we had more data points? For example, suppose two toxin molecules leave the cell at min and min?   Waiting Times    Molecule  Time  Rate Estimate               How do we combine these data points? We could take the average of the rate estimates: Alternatively, we could average the times first, then create a new rate estimate from the average time: Both of these make some sense, but let's do a careful computation to be certain which way is correct (if either of them is!). Using the Open Interval Method: So when . Testing points to the left and right: Now ( is increasing) on , and ( is decreasing) on . Therefore, the MLE is .  Tracing the values and throughout the calculation, we can see that the value will generally match the number of waiting times collected, and the value will be the sum of the waiting times. So, generally, with collected waiting times of , the MLE will be:      "
-},
-{
-  "id": "notes-02-10-3-3",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-3",
-  "type": "Definition",
-  "number": "106",
-  "title": "",
-  "body": "  An estimator is a way of estimating a parameter value based on data collected.   "
-},
-{
-  "id": "notes-02-10-3-4",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-4",
-  "type": "Example",
-  "number": "107",
-  "title": "",
-  "body": "  Suppose we flip a coin 100 times and see 52 heads. Let be the bias of the coin. Then we might estimate: (The notation is sometimes used to indicate an estimator for .)   "
-},
-{
-  "id": "notes-02-10-3-5",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-5",
-  "type": "Definition",
-  "number": "108",
-  "title": "",
-  "body": "  If we see heads in flips, then the estimator is called the common sense estimator for the binomial distribution parameter .   "
-},
-{
-  "id": "notes-02-10-3-6",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-6",
-  "type": "Definition",
-  "number": "109",
-  "title": "",
-  "body": "  An estimator is unbiased if .   "
-},
-{
-  "id": "notes-02-10-3-7",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-7",
-  "type": "Example",
-  "number": "110",
-  "title": "",
-  "body": "  Flip a coin 100 times, and let be the number of heads. Then . Let . Then: So , i.e., the common sense estimator is unbiased.   "
-},
-{
-  "id": "notes-02-10-3-8",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-8",
-  "type": "Definition",
-  "number": "111",
-  "title": "",
-  "body": "  We perform an experiment and collect data. Let be an unknown parameter value. The likelihood function is:    "
-},
-{
-  "id": "notes-02-10-3-9",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-9",
-  "type": "Example",
-  "number": "112",
-  "title": "",
-  "body": "  Let . Suppose we see 52 heads. Then: In the first line, the variable represents the data. In the second line, the variable represents the parameter value. Our goal, given the collected data, is to find the maximum likelihood estimation (MLE) for the parameter value.   is a continuous function over a closed interval , so we use the Closed Interval Method. Now, we look for critical numbers in the interior of the interval: Finally, we test the critical numbers and the endpoints of the interval to find the max:   Check Candidate Locations for Max                     So is the MLE.  More generally, a similar calculation will show that, with heads in flips, the MLE will be .   "
-},
-{
-  "id": "notes-02-10-3-10",
-  "level": "2",
-  "url": "notes-02-10.html#notes-02-10-3-10",
-  "type": "Example",
-  "number": "114",
-  "title": "",
-  "body": "  Suppose we observe a cell, measuring the time until a toxin molecule leaves the cell. Then for some , with pdf If we see a toxin molecule leave at 0.3 min, what's the MLE for ? We want to maximize over , an open interval. So we'll use the \"Open Interval Method\". Then when . Checking values to the left and the right: So (and therefore is increasing) on , and (and therefore is decreasing) on . Now we can conclude that is the location of a global (and not just local) maximum value.  More generally, if the observed time is , then the MLE will be .  What if we had more data points? For example, suppose two toxin molecules leave the cell at min and min?   Waiting Times    Molecule  Time  Rate Estimate               How do we combine these data points? We could take the average of the rate estimates: Alternatively, we could average the times first, then create a new rate estimate from the average time: Both of these make some sense, but let's do a careful computation to be certain which way is correct (if either of them is!). Using the Open Interval Method: So when . Testing points to the left and right: Now ( is increasing) on , and ( is decreasing) on . Therefore, the MLE is .  Tracing the values and throughout the calculation, we can see that the value will generally match the number of waiting times collected, and the value will be the sum of the waiting times. So, generally, with collected waiting times of , the MLE will be:    "
-},
-{
-  "id": "notes-02-19",
-  "level": "1",
-  "url": "notes-02-19.html",
-  "type": "Section",
-  "number": "",
-  "title": "Thursday, Feb 19",
-  "body": " Thursday, Feb 19   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    Central Limit Theorem    A continuous random variable has the normal distribution with mean and variance if it has pdf: We'll write .  The specific distribution is called the standard normal distribution , and its pdf has the notation:     If , then: Unfortunately, has no elementary antiderivative. But we know represents the area under the graph , and this area can be approximated to arbitrary precision.    Suppose are independent and identically distributed (or i.i.d. ) with finite expected value and finite variance . Define: Then, for large enough :     We'll use two general rules of thumb for determining whether the number of measurements is large enough for the approximation to be a good one:        If , then should be large enough so that there are at least 5 heads and 5 tails.     We'll omit a proof of , but we can at least check that the expected values and variances of are correct. Given :     Suppose we flip a fair coin 100 times, and let be the number of heads. Estimate .  Since , we know: So . Then: but we can't compute this integral.  Instead, we can standardize by shifting and scaling: Then . Values of are called -scores , sometimes indicated by an asterisk. (I.e., if is a value of , then is the corresponding -score.) Now: Now, we still can't compute the value of the integral. However, there's a huge benefit to translating to the standard normal distribution, regardless of which normal distribution we used to approximate . We can approximate integrals like to abritrary precision and record the results in a table. Then, we can look up the values when needed. We don't need to redo our approximations for different normal distributions, we just standardize whatever normal distribution we come across.  So:     TODO: complex image introducing the idea of the continuity correction .  We can make the approximation more accurate by extending the range of -values by half a unit in each direction:    "
-},
-{
-  "id": "notes-02-19-3-2",
-  "level": "2",
-  "url": "notes-02-19.html#notes-02-19-3-2",
-  "type": "Definition",
-  "number": "116",
-  "title": "",
-  "body": "  A continuous random variable has the normal distribution with mean and variance if it has pdf: We'll write .  The specific distribution is called the standard normal distribution , and its pdf has the notation:    "
-},
-{
-  "id": "thm-CLT",
-  "level": "2",
-  "url": "notes-02-19.html#thm-CLT",
-  "type": "Theorem",
-  "number": "117",
-  "title": "",
-  "body": "  Suppose are independent and identically distributed (or i.i.d. ) with finite expected value and finite variance . Define: Then, for large enough :    "
-},
-{
-  "id": "notes-02-19-3-7",
-  "level": "2",
-  "url": "notes-02-19.html#notes-02-19-3-7",
-  "type": "Example",
-  "number": "118",
-  "title": "",
-  "body": "  Suppose we flip a fair coin 100 times, and let be the number of heads. Estimate .  Since , we know: So . Then: but we can't compute this integral.  Instead, we can standardize by shifting and scaling: Then . Values of are called -scores , sometimes indicated by an asterisk. (I.e., if is a value of , then is the corresponding -score.) Now: Now, we still can't compute the value of the integral. However, there's a huge benefit to translating to the standard normal distribution, regardless of which normal distribution we used to approximate . We can approximate integrals like to abritrary precision and record the results in a table. Then, we can look up the values when needed. We don't need to redo our approximations for different normal distributions, we just standardize whatever normal distribution we come across.  So:    "
-},
-{
-  "id": "notes-02-19-3-8",
-  "level": "2",
-  "url": "notes-02-19.html#notes-02-19-3-8",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "continuity correction "
-},
-{
-  "id": "notes-02-24",
-  "level": "1",
-  "url": "notes-02-24.html",
-  "type": "Section",
-  "number": "",
-  "title": "Tuesday, Feb 24",
-  "body": " Tuesday, Feb 24   This is an outline of the topics we covered in class. These notes are not a substitute for your own note-taking. I highly recommend that you take your own notes during class. If you ever miss a class for any reason, reach out to another student in class to get a copy of their notes.    More Central Limit Theorem    Suppose we roll a fair D6 100 times, and let be the average of the rolls. Estimate .  Let be each roll's result. Then we have previously calculated . We have: So, by the CLT, . Even though takes on decimal values, it's still a discrete random variable. The sum of the rolls can only take on integer values, so will take on the values . Last time, we described the continuity correction as \"extending the range by half a unit's width in each direction\". Here, the width of one unit is . So:       Confidence Intervals  Idea: suppose we collected (i.i.d.) measurements which have some population mean and variance . We calculate the average: and we want to estimate the value of from the collected data. Previously, we've discussed the MLE, the single most likely estimate of the parameter. Now, we'd like to give a range where we can say something like: \"we are 95% confident that .\"  From the CLT, if is large enough, we approximate . We can think of an interval centered at as a collection of numbers within a certain distance of . We'd like to choose a distance so that our measured is within of . We can shift our point of view here: if is within of , then is within of .  TODO: image  To pick the distance , we want to make our interval large enough so that there's only a small amount of area under the normal curve outside of the interval. So:   Pick some value (representing the area under the curve outside the interval)    Let (this is the standardized -score of the right-hand side of the interval)    Then, the interval will be:      For , we'll have . So:    The 95% confidence limits are given by:       The term is called the standard error of the mean . (It's the standard deviation of .)    We don't know the true value of , just like we don't know the true value of . So we'll have to use our sample of measurements to estimate , and then use that estimate to give us our range of values for .    Let be (i.i.d.) measurements. Then the sample mean is: and the sample variance is:     Why here? It turns out that, as defined above, is an unbiased estimator for , whereas it wouldn't be if we divided by instead. (We'll ommit both the calculation justifying this and a more conceptual explanation for now.)  So, we can adjust the confidence limits from the theorem:     Suppose we're given measurements below.                            We're just practicing the computation here, so we'll pretend that 5 measurements is large enough for the CLT to apply.     This way of computing confidence limits only applies if we can think of the parameter we're estimating as a mean.    Suppose we flip a coin 100 times and see 40 heads. Find a 98% confidence interval for the bias .  Let indicate heads on each flip. Let and . Then: So a 98% confidence interval for is also a 98% confidence interval for .  In this setting, we can simplify the computation of and , using our knowledge of the binomial distribution . So and . We don't know the value of , so we'll use the MLE . So:   For a 98% confidence interval, we have , so: Then, the confidence limits are: For comparison, the 95% confidence limits are:      "
-},
-{
-  "id": "notes-02-24-3-2",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-3-2",
-  "type": "Example",
-  "number": "119",
-  "title": "",
-  "body": "  Suppose we roll a fair D6 100 times, and let be the average of the rolls. Estimate .  Let be each roll's result. Then we have previously calculated . We have: So, by the CLT, . Even though takes on decimal values, it's still a discrete random variable. The sum of the rolls can only take on integer values, so will take on the values . Last time, we described the continuity correction as \"extending the range by half a unit's width in each direction\". Here, the width of one unit is . So:    "
-},
-{
-  "id": "notes-02-24-4-7",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-4-7",
-  "type": "Theorem",
-  "number": "120",
-  "title": "",
-  "body": "  The 95% confidence limits are given by:    "
-},
-{
-  "id": "notes-02-24-4-8",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-4-8",
-  "type": "Definition",
-  "number": "121",
-  "title": "",
-  "body": "  The term is called the standard error of the mean . (It's the standard deviation of .)   "
-},
-{
-  "id": "notes-02-24-4-10",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-4-10",
-  "type": "Definition",
-  "number": "122",
-  "title": "",
-  "body": "  Let be (i.i.d.) measurements. Then the sample mean is: and the sample variance is:    "
-},
-{
-  "id": "notes-02-24-4-13",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-4-13",
-  "type": "Example",
-  "number": "123",
-  "title": "",
-  "body": "  Suppose we're given measurements below.                            We're just practicing the computation here, so we'll pretend that 5 measurements is large enough for the CLT to apply.    "
-},
-{
-  "id": "notes-02-24-4-15",
-  "level": "2",
-  "url": "notes-02-24.html#notes-02-24-4-15",
-  "type": "Example",
-  "number": "124",
-  "title": "",
-  "body": "  Suppose we flip a coin 100 times and see 40 heads. Find a 98% confidence interval for the bias .  Let indicate heads on each flip. Let and . Then: So a 98% confidence interval for is also a 98% confidence interval for .  In this setting, we can simplify the computation of and , using our knowledge of the binomial distribution . So and . We don't know the value of , so we'll use the MLE . So:   For a 98% confidence interval, we have , so: Then, the confidence limits are: For comparison, the 95% confidence limits are:    "
-},
-{
-  "id": "quiz-01",
-  "level": "1",
-  "url": "quiz-01.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Quiz 1",
-  "body": " Quiz 1    The following work should be completed individually. Use of notes or textbooks is not allowed. You may use a scientific calculator, not a graphing calculator or phone app.  Show all work unless instructed otherwise.       Write either True or False for each of the following statements. No justification is required.     If and are any sets, then and .    True.      If and are any events, then .    False.      If and are any events, then .    False.       We find a 4-sided die with faces 0, 1, 3, and 5. An experiment consists of rolling the die two times.     Write down the sample space of all possible outcomes for this experiment.           Let be the event that the second roll is at least twice the value of the first roll. Let m B be the event that the sum of the rolls is odd. Assume the die is fair. List the outcomes in and calculate . List the outcomes in and calculate .     Then , and .         A diagnostic test is developed to detect a disease present in 1.3% of the population. For a patient who has the disease, the test will accurately give a positive result 62% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.4% of the time.  For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of receiving a positive test result and be the event of having the disease. The given information is: , and . Then, using Bayes' Theorem:      "
-},
-{
-  "id": "quiz-01-3-1",
-  "level": "2",
-  "url": "quiz-01.html#quiz-01-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Write either True or False for each of the following statements. No justification is required.     If and are any sets, then and .    True.      If and are any events, then .    False.      If and are any events, then .    False.    "
-},
-{
-  "id": "quiz-01-3-2",
-  "level": "2",
-  "url": "quiz-01.html#quiz-01-3-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  We find a 4-sided die with faces 0, 1, 3, and 5. An experiment consists of rolling the die two times.     Write down the sample space of all possible outcomes for this experiment.           Let be the event that the second roll is at least twice the value of the first roll. Let m B be the event that the sum of the rolls is odd. Assume the die is fair. List the outcomes in and calculate . List the outcomes in and calculate .     Then , and .    "
-},
-{
-  "id": "quiz-01-4-1",
-  "level": "2",
-  "url": "quiz-01.html#quiz-01-4-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  A diagnostic test is developed to detect a disease present in 1.3% of the population. For a patient who has the disease, the test will accurately give a positive result 62% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.4% of the time.  For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of receiving a positive test result and be the event of having the disease. The given information is: , and . Then, using Bayes' Theorem:    "
-},
-{
-  "id": "quiz-02",
-  "level": "1",
-  "url": "quiz-02.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Quiz 2",
-  "body": " Quiz 2    The following work should be completed individually. Use of notes or textbooks is not allowed. You may use a scientific calculator, not a graphing calculator or phone app.  Show all work unless instructed otherwise.       Write either True or False for each of the following statements. No justification is required.     Let be integers with . Then .    True.      Suppose is a continuous random variable with pdf and cdf . Then .    True.      Suppose is a random variable taking values between 0 and 6. Then .    False.       Consider the joint distribution for and below.   Joint Distribution           0.1  0.05  0.1     0.3  0.15  0.3        Find the marginal distributions for and .           Are and independent?    Checking each cell in the table: So are independent.         Suppose a continuous random variable taking values in has cdf .     Find the pdf .           Find .           "
-},
-{
-  "id": "quiz-02-3-1",
-  "level": "2",
-  "url": "quiz-02.html#quiz-02-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Write either True or False for each of the following statements. No justification is required.     Let be integers with . Then .    True.      Suppose is a continuous random variable with pdf and cdf . Then .    True.      Suppose is a random variable taking values between 0 and 6. Then .    False.    "
-},
-{
-  "id": "quiz-02-3-2",
-  "level": "2",
-  "url": "quiz-02.html#quiz-02-3-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Consider the joint distribution for and below.   Joint Distribution           0.1  0.05  0.1     0.3  0.15  0.3        Find the marginal distributions for and .           Are and independent?    Checking each cell in the table: So are independent.    "
-},
-{
-  "id": "quiz-02-4-1",
-  "level": "2",
-  "url": "quiz-02.html#quiz-02-4-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Suppose a continuous random variable taking values in has cdf .     Find the pdf .           Find .         "
-},
-{
-  "id": "quiz-03",
-  "level": "1",
-  "url": "quiz-03.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Quiz 3",
-  "body": " Quiz 3    The following work should be completed individually. Use of notes or textbooks is not allowed. You may use a scientific calculator, not a graphing calculator or phone app.  Show all work unless instructed otherwise.       Write either True or False for each of the following statements. No justification is required.     Suppose a parameter has likelihood function with . Then the maximum likelihood estimation is .    True.      Suppose are random variables, and . Then, for sufficiently large , .    False.      Suppose we collect data to estimate the value of a parameter . Based on the collected data, we find a 95% confidence interval and a 90% confidence interval . Then .    True.       The heights of five plants are measured and recorded below. Find the sample mean, sample variance, and a 95% confidence interval around the sample mean for the heights of the plants. (Pretend that 5 measurements is enough for the CLT to apply.)    Plant  (in)                          Let be the average height of the sample. Then: So the 95% confidence limits are:         Suppose a coin comes up heads with probability 0.6. We flip the coin 80 times, and let be the number of heads. Estimate . (Use a continuity correction if appropriate.)     , so and . By the CLT, , so:      Values     0.00  0.01  0.02  0.03  0.04  0.05  0.06  0.07  0.08  0.09    −1.6  0.0548  0.0537  0.0526  0.0516  0.0505  0.0495  0.0485  0.0475  0.0465  0.0455    −1.5  0.0668  0.0655  0.0643  0.0630  0.0618  0.0606  0.0594  0.0582  0.0571  0.0559    −1.4  0.0808  0.0793  0.0778  0.0764  0.0749  0.0735  0.0721  0.0708  0.0694  0.0681    −1.3  0.0968  0.0951  0.0934  0.0918  0.0901  0.0885  0.0869  0.0853  0.0838  0.0823    −1.2  0.1151  0.1131  0.1112  0.1093  0.1075  0.1056  0.1038  0.1020  0.1003  0.0985    0.2  0.5793  0.5832  0.5871  0.5910  0.5948  0.5987  0.6026  0.6064  0.6103  0.6141    0.3  0.6179  0.6217  0.6255  0.6293  0.6331  0.6368  0.6406  0.6443  0.6480  0.6517    0.4  0.6554  0.6591  0.6628  0.6664  0.6700  0.6736  0.6772  0.6808  0.6844  0.6879    0.5  0.6915  0.6950  0.6985  0.7019  0.7054  0.7088  0.7123  0.7157  0.7190  0.7224    0.6  0.7257  0.7291  0.7324  0.7357  0.7389  0.7422  0.7454  0.7486  0.7517  0.7549      "
-},
-{
-  "id": "quiz-03-3-1",
-  "level": "2",
-  "url": "quiz-03.html#quiz-03-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Write either True or False for each of the following statements. No justification is required.     Suppose a parameter has likelihood function with . Then the maximum likelihood estimation is .    True.      Suppose are random variables, and . Then, for sufficiently large , .    False.      Suppose we collect data to estimate the value of a parameter . Based on the collected data, we find a 95% confidence interval and a 90% confidence interval . Then .    True.    "
-},
-{
-  "id": "quiz-03-3-2",
-  "level": "2",
-  "url": "quiz-03.html#quiz-03-3-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  The heights of five plants are measured and recorded below. Find the sample mean, sample variance, and a 95% confidence interval around the sample mean for the heights of the plants. (Pretend that 5 measurements is enough for the CLT to apply.)    Plant  (in)                          Let be the average height of the sample. Then: So the 95% confidence limits are:    "
-},
-{
-  "id": "quiz-03-4-1",
-  "level": "2",
-  "url": "quiz-03.html#quiz-03-4-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Suppose a coin comes up heads with probability 0.6. We flip the coin 80 times, and let be the number of heads. Estimate . (Use a continuity correction if appropriate.)     , so and . By the CLT, , so:    "
-},
-{
-  "id": "quiz-03-4-2",
-  "level": "2",
-  "url": "quiz-03.html#quiz-03-4-2",
-  "type": "Table",
-  "number": "126",
-  "title": "<span class=\"process-math\">\\(\\Phi(z)\\)<\/span> Values",
-  "body": " Values     0.00  0.01  0.02  0.03  0.04  0.05  0.06  0.07  0.08  0.09    −1.6  0.0548  0.0537  0.0526  0.0516  0.0505  0.0495  0.0485  0.0475  0.0465  0.0455    −1.5  0.0668  0.0655  0.0643  0.0630  0.0618  0.0606  0.0594  0.0582  0.0571  0.0559    −1.4  0.0808  0.0793  0.0778  0.0764  0.0749  0.0735  0.0721  0.0708  0.0694  0.0681    −1.3  0.0968  0.0951  0.0934  0.0918  0.0901  0.0885  0.0869  0.0853  0.0838  0.0823    −1.2  0.1151  0.1131  0.1112  0.1093  0.1075  0.1056  0.1038  0.1020  0.1003  0.0985    0.2  0.5793  0.5832  0.5871  0.5910  0.5948  0.5987  0.6026  0.6064  0.6103  0.6141    0.3  0.6179  0.6217  0.6255  0.6293  0.6331  0.6368  0.6406  0.6443  0.6480  0.6517    0.4  0.6554  0.6591  0.6628  0.6664  0.6700  0.6736  0.6772  0.6808  0.6844  0.6879    0.5  0.6915  0.6950  0.6985  0.7019  0.7054  0.7088  0.7123  0.7157  0.7190  0.7224    0.6  0.7257  0.7291  0.7324  0.7357  0.7389  0.7422  0.7454  0.7486  0.7517  0.7549    "
-},
-{
-  "id": "quiz-04",
-  "level": "1",
-  "url": "quiz-04.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Quiz 4",
-  "body": " Quiz 4    The following work should be completed individually. Use of notes or textbooks is not allowed. You may use a scientific calculator, not a graphing calculator or phone app.  Show all work unless instructed otherwise.       Suppose we have a coin that we're told is not fair and has a probability of of coming up heads. We suspect the probability is even higher than this.  Throughout the following parts, do not use a normal approximation.     We flip the coin 10 times and see 9 heads. Should we use a 1-tailed test or a 2-tailed test? Find the -value. Do we have strong enough evidence to reject the null hypothesis at a 0.05 significance level?    Using a 1-tailed test, the -value is : The -value is the sum: , so we can reject the null hypothesis.      What is the minimum number of heads we would need to see in 10 flips to reject the null hypothesis?    We saw in part (a) that at least 9 heads is enough to reject. Then: Adding to the previous probabilities, . So 8 heads would not be enough to reject the null hypothesis, therefore the minimum number of heads to reject would be 9.      What is the power of the test if the true value of the parameter is ?    With : So the power of the test is .      "
-},
-{
-  "id": "quiz-04-3-1",
-  "level": "2",
-  "url": "quiz-04.html#quiz-04-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Suppose we have a coin that we're told is not fair and has a probability of of coming up heads. We suspect the probability is even higher than this.  Throughout the following parts, do not use a normal approximation.     We flip the coin 10 times and see 9 heads. Should we use a 1-tailed test or a 2-tailed test? Find the -value. Do we have strong enough evidence to reject the null hypothesis at a 0.05 significance level?    Using a 1-tailed test, the -value is : The -value is the sum: , so we can reject the null hypothesis.      What is the minimum number of heads we would need to see in 10 flips to reject the null hypothesis?    We saw in part (a) that at least 9 heads is enough to reject. Then: Adding to the previous probabilities, . So 8 heads would not be enough to reject the null hypothesis, therefore the minimum number of heads to reject would be 9.      What is the power of the test if the true value of the parameter is ?    With : So the power of the test is .    "
-},
-{
-  "id": "quiz-05",
-  "level": "1",
-  "url": "quiz-05.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Quiz 5",
-  "body": " Quiz 5    The following work should be completed individually. Use of notes or textbooks is not allowed. You may use a scientific calculator, not a graphing calculator or phone app.  Show all work unless instructed otherwise.       The joint and marginal distributions of and are given below. Find and .   Joint Distribution Table                        Distribution Table for                Distribution Table for                    . We have: Since is an indicator random variable, we have . For : So the correlation is:         A sample of 30 measurements are taken and a best fit line is calculated, resulting in the data below (the final row of the table shows the sums for each column). Find the RSS, SST, and coefficient of determination.   Sample Data      best fit predicted  res                                           sum:           The RSS is the sum of res , , and the SST is the sum of , . Then the coefficient of determination is:      "
-},
-{
-  "id": "quiz-05-3-1",
-  "level": "2",
-  "url": "quiz-05.html#quiz-05-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  The joint and marginal distributions of and are given below. Find and .   Joint Distribution Table                        Distribution Table for                Distribution Table for                    . We have: Since is an indicator random variable, we have . For : So the correlation is:    "
-},
-{
-  "id": "quiz-05-4-1",
-  "level": "2",
-  "url": "quiz-05.html#quiz-05-4-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  A sample of 30 measurements are taken and a best fit line is calculated, resulting in the data below (the final row of the table shows the sums for each column). Find the RSS, SST, and coefficient of determination.   Sample Data      best fit predicted  res                                           sum:           The RSS is the sum of res , , and the SST is the sum of , . Then the coefficient of determination is:    "
-},
-{
-  "id": "exam-01",
-  "level": "1",
-  "url": "exam-01.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Exam 1",
-  "body": " Exam 1    Show all relevant work.       Write either True or False for each of the following statements. No justification is required.     Let be any sets. Then .    False.      Let be any events. Then .    False.      Given a joint distribution for random variables and , then it must be the case that .    False.      Suppose we flip a coin repeatedly until we first see heads and let be the number of flips. Then .    True.      If molecules are observed leaving a cell after 1.5 minutes, 1.8 minutes, 2.1 minutes, 2.2 minutes, and 2.4 minutes, then the maximum likelihood estimation for the rate at which molecules leave the cell is per minute.    True.      Suppose is a likelihood function, and . Then the probability that is .    False.         Consider the sample space with probability distribution given in the table below. Let and . Calculate the following probabilities.                             , so             , so                      Consider the random variable with probability distribution below.                       Find .           Find .            A diagnostic test is developed to detect a disease present in 2.1% of the population. For a patient who has the disease, the test will accurately give a positive result 76% of the time. When the patient does not have the disease, the test will accurately give a negative result 98.2% of the time.  For a patient who receives a negative test, what is the probability they do not have the disease?    Let be the event of receiving a positive test result and be the event of having the disease. The given information is: , and . Then, using Bayes' Theorem:         In each of the following scenarios, state the maximum likelihood estimation for the unknown parameter indicated.     A radioactive material is observed for 5 hours. 120 particle emissions are seen. is the hourly rate of particle emissions.    120 emissions per 5 hours is an hourly rate of       In each of 5 trials, a coin is flipped until heads is seen. The number of flips in each trial is 3, 4, 3, 5, and 6. is the probability of the coin coming up heads on a flip.    There are total flips, of which are heads, so the MLE is        Let be a continuous random variable with c.d.f. , where .     Find the p.d.f. for .           Find .           Find .              Consider the joint distribution for and below. Are and independent?                         so are not independent.      Suppose a parameter has likelihood function . Find the maximum likelihood estimation of .     is a continuous function and is a closed interval, so we use the CIM. Then:                   is the largest value, so the MLE is      "
-},
-{
-  "id": "exam-01-3-1",
-  "level": "2",
-  "url": "exam-01.html#exam-01-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Write either True or False for each of the following statements. No justification is required.     Let be any sets. Then .    False.      Let be any events. Then .    False.      Given a joint distribution for random variables and , then it must be the case that .    False.      Suppose we flip a coin repeatedly until we first see heads and let be the number of flips. Then .    True.      If molecules are observed leaving a cell after 1.5 minutes, 1.8 minutes, 2.1 minutes, 2.2 minutes, and 2.4 minutes, then the maximum likelihood estimation for the rate at which molecules leave the cell is per minute.    True.      Suppose is a likelihood function, and . Then the probability that is .    False.    "
-},
-{
-  "id": "exam-01-4-1",
-  "level": "2",
-  "url": "exam-01.html#exam-01-4-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Consider the sample space with probability distribution given in the table below. Let and . Calculate the following probabilities.                             , so             , so                 "
-},
-{
-  "id": "exam-01-5-1",
-  "level": "2",
-  "url": "exam-01.html#exam-01-5-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Consider the random variable with probability distribution below.                       Find .           Find .         "
-},
-{
-  "id": "exam-01-5-2",
-  "level": "2",
-  "url": "exam-01.html#exam-01-5-2",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  A diagnostic test is developed to detect a disease present in 2.1% of the population. For a patient who has the disease, the test will accurately give a positive result 76% of the time. When the patient does not have the disease, the test will accurately give a negative result 98.2% of the time.  For a patient who receives a negative test, what is the probability they do not have the disease?    Let be the event of receiving a positive test result and be the event of having the disease. The given information is: , and . Then, using Bayes' Theorem:    "
-},
-{
-  "id": "exam-01-6-1",
-  "level": "2",
-  "url": "exam-01.html#exam-01-6-1",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  In each of the following scenarios, state the maximum likelihood estimation for the unknown parameter indicated.     A radioactive material is observed for 5 hours. 120 particle emissions are seen. is the hourly rate of particle emissions.    120 emissions per 5 hours is an hourly rate of       In each of 5 trials, a coin is flipped until heads is seen. The number of flips in each trial is 3, 4, 3, 5, and 6. is the probability of the coin coming up heads on a flip.    There are total flips, of which are heads, so the MLE is     "
-},
-{
-  "id": "exam-01-6-2",
-  "level": "2",
-  "url": "exam-01.html#exam-01-6-2",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Let be a continuous random variable with c.d.f. , where .     Find the p.d.f. for .           Find .           Find .         "
-},
-{
-  "id": "exam-01-7-1",
-  "level": "2",
-  "url": "exam-01.html#exam-01-7-1",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Consider the joint distribution for and below. Are and independent?                         so are not independent.   "
-},
-{
-  "id": "exam-01-7-2",
-  "level": "2",
-  "url": "exam-01.html#exam-01-7-2",
-  "type": "Worksheet Exercise",
-  "number": "8",
-  "title": "",
-  "body": "  Suppose a parameter has likelihood function . Find the maximum likelihood estimation of .     is a continuous function and is a closed interval, so we use the CIM. Then:                   is the largest value, so the MLE is    "
-},
-{
-  "id": "exam-02",
-  "level": "1",
-  "url": "exam-02.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Exam 2",
-  "body": " Exam 2    Show all relevant work.       Write either True or False for each of the following statements. No justification is required.     Suppose are any random variables and . Then is approximately normally distributed.    False.      Let be the standard normal distribution. For any , .    True.      If we're using a set of data to find a confidence interval for a parameter, then the 95% confidence interval will be wider than the 90% confidence interval.    True.      In hypothesis testing, a type I error is the probability of accepting the null hypothesis.    False.      For a particular set of collected data, the -value of a 2-tailed test will be as large or larger than the -value of a 1-tailed test.    True.      In a test, if , then we can reject the null hypothesis.    False.         In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test. Indicate clearly which words or phrase in the description of the scenario would lead you to draw your conclusion.     We wonder whether the population of mice in a city have a different average weight to the population of mice in a rural town.    2-tailed, because we wonder whether the cities have \"different average weight\" without suspecting a direction of difference.      A new fertilizer is designed to increase the yield of a particular species of fruit, and we wonder whether the fertilizer is effective.    1-tailed, because the new fertilizer is \"designed to increase the yield\", so we suspect the change happens in a particular direction.      We find a weighted 6-sided die and suspect that it will roll a 6 more often than a fair die would.    1-tailed, because we suspect the die will roll 6 \"more often\", indicating difference in a particular direction.         A coin has a probability of coming up heads. We flip the coin 180 times, and write for the number of heads. Estimate . (Use a continuity correction if appropriate.)     is binomially distributed with and . Therefore:       The weights of five apples are measured and recorded below. Find the sample mean, sample variance, and a 95% confidence interval around the sample mean for the weights of the apples. (Pretend that 5 measurements is enough for the CLT to apply. Do not use the -distribution.)    Apple         Weight (g)                    Suppose we're told that a proportion of of a population has a particular trait, but we suspect that this information is incorrect. We sample 160 people from the population and see 76 people with the trait. Is this enough evidence to reject the null hypothesis at the 0.05 significance level?    \"We suspect the information is incorrect\" indicates a 2-tailed test. Let be the number of people in the sample with the trait. Then, under , , so and . The observed people is more than expected. Equally extreme in the other direction would be fewer, so people. Therefore the -value is: so we do not reject .        Suppose we have a coin that we're told has probability of coming up heads, but we suspect it comes up heads more often than that. We flip the coin 160 times.     What is the minimum number of heads we would need to see to reject the null hypothesis?    \"More often\" suggests we should use a 1-tailed test. Let be the number of heads. Then, under , , so and . Therefore, the -value when observing heads would be: We would need the -score to be at least 1.65 to reject , so: Therefore, it would take at least heads to reject .      If the coin is actually fair, what is the power of this test?    If the coin is fair, then and . The probability of rejecting is then:          A store owner assumes an equal number of people on average come into the store each day of the week. Are the following counts of 400 observed shoppers consistent with this hypothesis?    Day  Mon  Tue  Wed  Thu  Fri    Observed Shoppers           Under the null hypothesis, we would expect people each day. So: The number of degrees of freedom is , so the critical value is . Since , we reject the null hypothesis.     "
-},
-{
-  "id": "exam-02-3-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Write either True or False for each of the following statements. No justification is required.     Suppose are any random variables and . Then is approximately normally distributed.    False.      Let be the standard normal distribution. For any , .    True.      If we're using a set of data to find a confidence interval for a parameter, then the 95% confidence interval will be wider than the 90% confidence interval.    True.      In hypothesis testing, a type I error is the probability of accepting the null hypothesis.    False.      For a particular set of collected data, the -value of a 2-tailed test will be as large or larger than the -value of a 1-tailed test.    True.      In a test, if , then we can reject the null hypothesis.    False.    "
-},
-{
-  "id": "exam-02-4-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-4-1",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test. Indicate clearly which words or phrase in the description of the scenario would lead you to draw your conclusion.     We wonder whether the population of mice in a city have a different average weight to the population of mice in a rural town.    2-tailed, because we wonder whether the cities have \"different average weight\" without suspecting a direction of difference.      A new fertilizer is designed to increase the yield of a particular species of fruit, and we wonder whether the fertilizer is effective.    1-tailed, because the new fertilizer is \"designed to increase the yield\", so we suspect the change happens in a particular direction.      We find a weighted 6-sided die and suspect that it will roll a 6 more often than a fair die would.    1-tailed, because we suspect the die will roll 6 \"more often\", indicating difference in a particular direction.    "
-},
-{
-  "id": "exam-02-5-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-5-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  A coin has a probability of coming up heads. We flip the coin 180 times, and write for the number of heads. Estimate . (Use a continuity correction if appropriate.)     is binomially distributed with and . Therefore:    "
-},
-{
-  "id": "exam-02-5-2",
-  "level": "2",
-  "url": "exam-02.html#exam-02-5-2",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  The weights of five apples are measured and recorded below. Find the sample mean, sample variance, and a 95% confidence interval around the sample mean for the weights of the apples. (Pretend that 5 measurements is enough for the CLT to apply. Do not use the -distribution.)    Apple         Weight (g)               "
-},
-{
-  "id": "exam-02-6-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-6-1",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Suppose we're told that a proportion of of a population has a particular trait, but we suspect that this information is incorrect. We sample 160 people from the population and see 76 people with the trait. Is this enough evidence to reject the null hypothesis at the 0.05 significance level?    \"We suspect the information is incorrect\" indicates a 2-tailed test. Let be the number of people in the sample with the trait. Then, under , , so and . The observed people is more than expected. Equally extreme in the other direction would be fewer, so people. Therefore the -value is: so we do not reject .   "
-},
-{
-  "id": "exam-02-7-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-7-1",
-  "type": "Worksheet Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Suppose we have a coin that we're told has probability of coming up heads, but we suspect it comes up heads more often than that. We flip the coin 160 times.     What is the minimum number of heads we would need to see to reject the null hypothesis?    \"More often\" suggests we should use a 1-tailed test. Let be the number of heads. Then, under , , so and . Therefore, the -value when observing heads would be: We would need the -score to be at least 1.65 to reject , so: Therefore, it would take at least heads to reject .      If the coin is actually fair, what is the power of this test?    If the coin is fair, then and . The probability of rejecting is then:     "
-},
-{
-  "id": "exam-02-8-1",
-  "level": "2",
-  "url": "exam-02.html#exam-02-8-1",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  A store owner assumes an equal number of people on average come into the store each day of the week. Are the following counts of 400 observed shoppers consistent with this hypothesis?    Day  Mon  Tue  Wed  Thu  Fri    Observed Shoppers           Under the null hypothesis, we would expect people each day. So: The number of degrees of freedom is , so the critical value is . Since , we reject the null hypothesis.   "
-},
-{
-  "id": "recitation-calculus-review",
-  "level": "1",
-  "url": "recitation-calculus-review.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Calculus Review",
-  "body": " Calculus Review    In Calculus I, you learned about derivatives, antiderivatives, and definite integrals. All of these will make an appearance in the context of probability density functions, cumulative distribution functions, and probability calculations in continuous sample spaces, so it will be useful to refresh your memory and practice some calculations.       The Power Rule for derivatives states:       The Power Rule for antiderivatives states:       Practice with the following derivatives:                Practice with the following antiderivatives:                 Fundamental Theorem of Calculus   If is an antiderivative of i.e., if then:     If is a probability density function (don't worry about what that means for now), then integrals such as are used to calculate certain probabilities, as are values of the form .    Practice with the following integrals:               "
-},
-{
-  "id": "recitation-calculus-review-3-1",
-  "level": "2",
-  "url": "recitation-calculus-review.html#recitation-calculus-review-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  The Power Rule for derivatives states:    "
-},
-{
-  "id": "recitation-calculus-review-3-2",
-  "level": "2",
-  "url": "recitation-calculus-review.html#recitation-calculus-review-3-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  The Power Rule for antiderivatives states:    "
-},
-{
-  "id": "recitation-calculus-review-3-3",
-  "level": "2",
-  "url": "recitation-calculus-review.html#recitation-calculus-review-3-3",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Practice with the following derivatives:             "
-},
-{
-  "id": "recitation-calculus-review-3-4",
-  "level": "2",
-  "url": "recitation-calculus-review.html#recitation-calculus-review-3-4",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Practice with the following antiderivatives:             "
-},
-{
-  "id": "thm-FTC",
-  "level": "2",
-  "url": "recitation-calculus-review.html#thm-FTC",
-  "type": "Theorem",
-  "number": "131",
-  "title": "Fundamental Theorem of Calculus.",
-  "body": " Fundamental Theorem of Calculus   If is an antiderivative of i.e., if then:    "
-},
-{
-  "id": "recitation-calculus-review-4-3",
-  "level": "2",
-  "url": "recitation-calculus-review.html#recitation-calculus-review-4-3",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Practice with the following integrals:             "
+  "body": " Syllabus        Course Information     Day and Time  Lectures: TR 9:50 am - 11:30 am Gladfelter L024    Recitation  Section 1: W 2:00 pm - 2:50 pm Wachman 406  Section 2: M 2:00 pm - 2:50 pm Wachman 406  Section 3: F 2:00 pm - 2:50 pm Wachman 406    Office Hours  See times and location on Canvas    Course Goals  To introduce some of the basic concepts and techniques of probability and statistics, as applied in the Life and Environmental Sciences.    Topics Covered  Probability theory and descriptive statistics, probability models, introduction to inferential statistics.    Prerequisite  MATH 1041 (C), MATH 1038 (C), MATH 1941 (C), MATH 1951 (C), MATH 2043 to 3080 (C-), MA06 Y.    Course Mode  In-person    Credits  4       Textbook and Other Required Materials     Textbook  Course notes are freely available online .    Calculator  You will need a scientific calculator (NOT a graphing calculator and NOT a calculator app on your phone\/watch). Any calculator capable of symbolic differentiation\/integration or performing statistical tests is NOT allowed. Scientific calculators (such as the TI-30XIIS ) typically cost around $10.    Phone  You will need a device (phone or tablet) to take pictures of your quizzes\/tests and upload your work.       Assessments   Homework  There will be homework assignments posted on Canvas approximately weekly. There are more practice problems available in the course notes. Doing homework problems is the primary way that you will learn and internalize the material seen in class. Plan to spend a substantial amount of time throughout the semester doing homework problems.    Quizzes  There will be in-class quizzes every other week (on Sep 1, Sep 15, Oct 13, Oct 27, Dec 1). Quizzes give you some practice in a test-like environment without the same grade pressure as a test. The quizzes should be a signal to you about whether you're keeping up with the pace of the course.  You may use an allowed calculator during quizzes.    Exams  This course will have two midterm exams and a Final Exam. Exams are the main opportunity for you to demonstrate your understanding of course material.  You may use an allowed calculator and a 3 in x 5 in index card with prepared notes during exams. You are allowed to write on both sides of the index card. You should include your full name in the top right corner of your index card. Your index card will be turned in along with your exam.     Test 1  Tuesday, September 29 (in class)    Test 2  Tuesday, November 10 (in class)    Final Exam  Thursday, December 10, 8:00 am - 10:00 am       Makeup Policy  There are no quiz or exam makeups. The lowest quiz will be dropped and replaced with the recitation score.     Grading  The grade components and their weights are:    Component  Weight    Homework  5%    Quizzes  15%    Exam 1  24%    Exam 2  24%    Final Exam  32%    The lower cutoff for each letter grade is given in the table below.     Letter Grade  Lower Cutoff    A  93%    A-  90%    B+  87%    B  83%    B-  80%    C+  77%    C  73%    C-  70%    D+  65%    D  55%    F  0%     Attendance Policy  Attendance is expected and will be recorded. If you need to miss a class for some reason, it is your responsibility to get notes from another student for any material you've missed, and to arrange to turn in\/make up any in-class or collected work.    Attendance and Your Health  To achieve course learning goals, students must attend and participate in classes, according to the course requirements. However, if you have tested positive for or are experiencing symptoms of a contagious illness, you should not come to campus or attend in-person classes or activities. It is the student's responsibility to contact me to create a plan for participation and engagement in the course as soon as you are able to do so, and to make a plan to complete all assignments in a timely fashion.    Expectations for Class Conduct  It is important to foster a respectful and productive learning environment that includes all students in our diverse community of learners. Our differences, some of which are outlined in the University's nondiscrimination statement, will add richness to this learning experience. Therefore, all opinions and experiences, no matter how different or controversial they may be perceived, must be respected in the tolerant spirit of academic discourse.    Disability Statement  Any student who has a need for accommodations based on the impact of a documented disability or medical condition should contact Disability Resources and Services (DRS) in Howard Gittis Student Center South, Rm 420 ( drs@temple.edu ; 215-204-1280) to request accommodations and learn more about the resources available to you. If you have a DRS accommodation letter to share with me, or you would like to discuss your accommodations, please contact me as soon as practical. I will work with you and with DRS to coordinate reasonable accommodations for all students with documented disabilities. All discussions related to your accommodations will be confidential.    Academic Freedom  Freedom to teach and freedom to learn are inseparable facets of academic freedom. The University has adopted a policy on Student and Faculty Academic Rights and Responsibilities (Policy # 03.70.02) which can be accessed here .    Add\/Drop Policy  Students will be charged for a course unless dropped by the Drop\/Add deadline date. Check the University calendar for exact dates.  During the Drop\/Add period, students may drop a course with no record of the class appearing on their transcript. Students are not financially responsible for any courses dropped during this period. In the following weeks prior to or on the withdrawal date students may withdraw from a course with the grade of \"W\" appearing on their transcript. After the withdrawal date students may not withdraw from courses. Check the University calendar for exact dates. See the full policy by clicking here .    AI Policy  The use of generative AI tools (such as ChatGPT, DALL-E, etc.) is not permitted in this class unless specifically announced for a particular assignment; therefore, any use of AI tools for work in this class may be considered a violation of Temple University's Academic Honesty policy and Student Conduct Code, since the work is not your own. The use of unauthorized AI tools will result in a grade of zero on the assignment; a second offense will be reported to the Student Conduct Board.    Incomplete Grades  The grade \"I\" (an \"incomplete\") is only given if students cannot complete the course work due to circumstances beyond their control. It is necessary for the student to have completed the majority of the course work with a passing average and to sign an incomplete contract which clearly states what is left for the student to do and the deadline by which the work must be completed. The incomplete contract must also include a default grade that will be used in case the \"I\" grade is not resolved by the agreed deadline. See the full policy by clicking here .    Student Support Services  The following academic support services are available to students:      The Math Consulting Center      Student Success Center      University Libraries      Undergraduate Research Support      Career Center      Tuttleman Counseling Services      Disability Resources and Services      If you are experiencing food insecurity or financial struggles, Temple provides resources and support. Notably, the Temple University Cherry Pantry and the Temple University Emergency Student Aid Program are in operation as well as a variety of resources from the Division of Student Affairs.    "
 },
 {
   "id": "Exam-1-Review",
@@ -1447,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exam 1 Review",
-  "body": " Exam 1 Review   Use the following problems to prepare for the exam. There will be in-class review on Thursday, February 12. Your recitation this week will also be exam review.    Allowed Materials  You will be allowed to use a scientific calculator ( not a graphing calculator, not a calculator app on your phone). You may not share a calculator with another student; you must use your own calculator.  You may bring a standard 3 in x 5 in index card with prepared notes. You may use both sides of the notecard. You must put your full name in the top right corner of the card, and turn it in along with your exam.      Consider the sets , , and , which are all subsets of .     Find .           Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .       Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]     Note that simply lists outcomes with no reference to the probabilities. So the answer here is the same as in .      Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips: .  For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .      If we roll a 6-sided die ten times, how many possible results will there be?    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have       Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1              Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6          Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6          A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    For short, write to mean the probability of the toxin molecule leaving during the th minute. Then   The probability of leaving during the first 3 minutes is         In each of the following scenarios with given events and , alculate , , , and .     An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:       An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:        A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?            An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     So , , and . Finally: so and are not independent.      An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     So , , and . Finally: so and are independent.      Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.      An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:       An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?       A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.      A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find             A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .       A continuous random variable taking values in has c.d.f. . Find the p.d.f. .           Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,       Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3         Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.      Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.       If , , and , what is ?    4.      A continuous random variable taking values in has p.d.f. . What is ?    2\/3.      A continuous random variable taking values in has p.d.f. . What is ?           A continuous random variable taking values in has p.d.f. . Find .           Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1         Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?      If , , what is ?      A continuous random variable taking values in has p.d.f. . What is ?      A continuous random variable taking values in has p.d.f. . What is ?      A continuous random variable taking values in has p.d.f. . Find .      Suppose a coin has an unknown probability of coming up heads. We perform the experiment in independent trials, during which it takes flips to see our first heads in each trial. Find a \"common sense\" MLE formula for the geometric distribution.      A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?      A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?      Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .     "
+  "body": " Exam 1 Review   Use the following problems to prepare for the exam. There will be in-class review on Thursday, September 24. Your recitation this week will also be exam review.    Allowed Materials  You will be allowed to use a scientific calculator ( not a graphing calculator, not a calculator app on your phone). You may not share a calculator with another student; you must use your own calculator.  You may bring a standard 3 in x 5 in index card with prepared notes. You may use both sides of the notecard. You must put your full name in the top right corner of the card, and turn it in along with your exam.      Consider the sets , , and , which are all subsets of .     Find .         The set consists of elements in the set which are not in the overlap of and . The overlap is , and of these elements, and are in . So .      Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.     counts the number of elements in a finite set . We can quickly count the elements in sets to see that , , and .  The union of two sets includes all elements from either set, so: Counting the elements, we see and .  The intersection of two sets is the overlap, consisting of elements which show up in both sets simultaneously, so: Counting the elements, we see , , and .  In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .     consists of elements of which are not in , thus . Similarly, consists of elements that are not in nor in . Therefore, .       Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]          Note that simply lists outcomes with no reference to the probabilities.      Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips:   For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .      If we roll a 6-sided die ten times, how many possible results will there be?     .    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have .      Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       Remember that, to calculate the probability of an event, you should add up the probabilities of each outcome in the event.          The other events are and , so:       Suppose we flip a coin two times. Answer the questions below. What about three flips? What about four flips?     Write all outcomes in the sample space .           Make a probability distribution table for assuming the coin is fair.     Probability Distribution for Two Fair Coin Flips         0.25     0.25     0.25     0.25         Make a probability distribution table assuming the coin comes up heads with probability 0.3.     Probability Distribution for Two Fair Coin Flips         0.09     0.21     0.21     0.49          Suppose we roll a fair 6-sided die two times. Answer the questions below.     Write all outcomes in the sample space .           Make a probability distribution table for assuming the die is fair.    We'll avoid an overly large table and note that, since the die is fair, every outcome is equally likely. Therefore, for every .      Let be the event that the second roll is higher than the first, and let be the event that the first roll is even. Find , and .     .     Therefore        Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6        Let . Then , and , and so on. So the total probability in the space is: Since the total probability must add up to 1, we have , so , and we can calculate the rest of the probabilities from there.   Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6          Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6        Let . Then and , since all odd rolls must have the same probability. The even rolls must have twice the probability, so . Now: Since the total probability must add up to 1, we have , so , and we can calculate the rest of the probabilities from there.   Probability Distribution for an Even-biased Die        1     2     3     4     5     6          A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    Write for the minute that the toxin molecule leaves the cell. Then , and .    Write for the minute that the toxin molecule leaves the cell. We're told that the toxin molecule has probability of leaving during each minute. Therefore, the probability of remaining during a particular minute is .  For the toxin molecule to leave the cell during minute , it must remain for minutes , and then leave during minute . The probability to remain each minute is , so we must multiply copies of . Then the probability of leaving is , so we multiply by a factor of , yielding the formula:   Then, the probaiblity of the molecule leaving within the first three minutes will be:       In each of the following scenarios with given events and , calculate , , , and .     An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:       An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:        A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?     .    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?     .            An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     and are not independent.     So , , and . Finally: so and are not independent.      An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     and are independent.     So , , and . Finally: so and are independent.      Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3        Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.      An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:       An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?     , so every additional flip multiplies the probability by 0.6. Therefore, the highest value for occurs when , in which case        A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.    Let be the number of customers seen during the afternoon shift. Since the store averages 20 customers per hour, it will average 80 per 4-hours. So will have distribution . Therefore:       A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find             A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .       A continuous random variable taking values in has c.d.f. . Find the p.d.f. .           Let . Find and .     . .      Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,       Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3         Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.      Let and be random variables each taking the values 1, 2, 3, 4, 5. Write different distribution tables for and so that they have the same expected value.     Example Distributions         1  0.2  0.1    2  0.2  0.1    3  0.2  0.6    4  0.2  0.1    5  0.2  0.1         Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.       If , , and , what is ?    4.      A continuous random variable taking values in has p.d.f. . What is ?    2\/3.      A continuous random variable taking values in has p.d.f. . What is ?    0.      A continuous random variable taking values in has p.d.f. . What is ?           A continuous random variable taking values in has p.d.f. for some constant . In a previous problem ( ), you found the value of . Now, find .           A continuous random variable taking values in has p.d.f. . Find .     .      Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1        .      Let be a random variable taking the values 1, 2, 3, 4, 5. Write a distribution table for , then use your table to write a distribution for . Then, find .      Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?    When and , . When and , . When and , .      If , , what is ?     .      A continuous random variable taking values in has p.d.f. . What is ?     .      A continuous random variable taking values in has p.d.f. . What is ?     .      A continuous random variable taking values in has p.d.f. . What is ?     .      A continuous random variable taking values in has p.d.f. for some constant . In a previous problem ( ), you found the value of . Now, find .     .      A continuous random variable taking values in has p.d.f. . Find .     .      Suppose a coin has an unknown probability of coming up heads. We perform the experiment in five independent trials, during which it takes 4, 5, 4, 3, and 6 flips to see our first heads in each trial. What is the maximum likelihood estimation for the probability of the coin coming up heads on a flip?     .      A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?     .      A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?     . The MLE is .      Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .     .     "
 },
 {
   "id": "Exam-1-Review-4-1",
@@ -1456,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider the sets , , and , which are all subsets of .     Find .           Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .    "
+  "body": "  Consider the sets , , and , which are all subsets of .     Find .         The set consists of elements in the set which are not in the overlap of and . The overlap is , and of these elements, and are in . So .      Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.     counts the number of elements in a finite set . We can quickly count the elements in sets to see that , , and .  The union of two sets includes all elements from either set, so: Counting the elements, we see and .  The intersection of two sets is the overlap, consisting of elements which show up in both sets simultaneously, so: Counting the elements, we see , , and .  In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .     consists of elements of which are not in , thus . Similarly, consists of elements that are not in nor in . Therefore, .    "
 },
 {
   "id": "Exam-1-Review-4-2",
@@ -1465,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2",
   "title": "",
-  "body": "  Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]     Note that simply lists outcomes with no reference to the probabilities. So the answer here is the same as in .   "
+  "body": "  Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]          Note that simply lists outcomes with no reference to the probabilities.   "
 },
 {
   "id": "Exam-1-Review-4-3",
@@ -1474,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3",
   "title": "",
-  "body": "  Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips: .  For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .   "
+  "body": "  Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips:   For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .   "
 },
 {
   "id": "Exam-1-Review-4-4",
@@ -1483,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4",
   "title": "",
-  "body": "  If we roll a 6-sided die ten times, how many possible results will there be?    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have    "
+  "body": "  If we roll a 6-sided die ten times, how many possible results will there be?     .    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have .   "
 },
 {
   "id": "Exam-1-Review-4-5",
@@ -1492,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5",
   "title": "",
-  "body": "  Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1           "
+  "body": "  Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       Remember that, to calculate the probability of an event, you should add up the probabilities of each outcome in the event.          The other events are and , so:    "
 },
 {
   "id": "Exam-1-Review-4-6",
@@ -1501,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6",
   "title": "",
-  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6       "
+  "body": "  Suppose we flip a coin two times. Answer the questions below. What about three flips? What about four flips?     Write all outcomes in the sample space .           Make a probability distribution table for assuming the coin is fair.     Probability Distribution for Two Fair Coin Flips         0.25     0.25     0.25     0.25         Make a probability distribution table assuming the coin comes up heads with probability 0.3.     Probability Distribution for Two Fair Coin Flips         0.09     0.21     0.21     0.49       "
 },
 {
   "id": "Exam-1-Review-4-7",
@@ -1510,7 +79,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7",
   "title": "",
-  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6       "
+  "body": "  Suppose we roll a fair 6-sided die two times. Answer the questions below.     Write all outcomes in the sample space .           Make a probability distribution table for assuming the die is fair.    We'll avoid an overly large table and note that, since the die is fair, every outcome is equally likely. Therefore, for every .      Let be the event that the second roll is higher than the first, and let be the event that the first roll is even. Find , and .     .     Therefore     "
 },
 {
   "id": "Exam-1-Review-4-8",
@@ -1519,43 +88,43 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8",
   "title": "",
-  "body": "  A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    For short, write to mean the probability of the toxin molecule leaving during the th minute. Then   The probability of leaving during the first 3 minutes is    "
+  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6        Let . Then , and , and so on. So the total probability in the space is: Since the total probability must add up to 1, we have , so , and we can calculate the rest of the probabilities from there.   Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6       "
 },
 {
-  "id": "Exam-1-Review-4-9-2",
+  "id": "Exam-1-Review-4-9",
   "level": "2",
-  "url": "Exam-1-Review.html#Exam-1-Review-4-9-2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-9",
   "type": "Exercise",
   "number": "9",
   "title": "",
-  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:    "
-},
-{
-  "id": "Exam-1-Review-4-9-3",
-  "level": "2",
-  "url": "Exam-1-Review.html#Exam-1-Review-4-9-3",
-  "type": "Exercise",
-  "number": "10",
-  "title": "",
-  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:    "
+  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6        Let . Then and , since all odd rolls must have the same probability. The even rolls must have twice the probability, so . Now: Since the total probability must add up to 1, we have , so , and we can calculate the rest of the probabilities from there.   Probability Distribution for an Even-biased Die        1     2     3     4     5     6       "
 },
 {
   "id": "Exam-1-Review-4-10",
   "level": "2",
   "url": "Exam-1-Review.html#Exam-1-Review-4-10",
   "type": "Exercise",
-  "number": "11",
+  "number": "10",
   "title": "",
-  "body": "  A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?         "
+  "body": "  A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    Write for the minute that the toxin molecule leaves the cell. Then , and .    Write for the minute that the toxin molecule leaves the cell. We're told that the toxin molecule has probability of leaving during each minute. Therefore, the probability of remaining during a particular minute is .  For the toxin molecule to leave the cell during minute , it must remain for minutes , and then leave during minute . The probability to remain each minute is , so we must multiply copies of . Then the probability of leaving is , so we multiply by a factor of , yielding the formula:   Then, the probaiblity of the molecule leaving within the first three minutes will be:    "
 },
 {
-  "id": "Exam-1-Review-4-11",
+  "id": "Exam-1-Review-4-11-2",
   "level": "2",
-  "url": "Exam-1-Review.html#Exam-1-Review-4-11",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-11-2",
+  "type": "Exercise",
+  "number": "11",
+  "title": "",
+  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:    "
+},
+{
+  "id": "Exam-1-Review-4-11-3",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-11-3",
   "type": "Exercise",
   "number": "12",
   "title": "",
-  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     So , , and . Finally: so and are not independent.   "
+  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:    "
 },
 {
   "id": "Exam-1-Review-4-12",
@@ -1564,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "13",
   "title": "",
-  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     So , , and . Finally: so and are independent.   "
+  "body": "  A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?     .    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?     .         "
 },
 {
   "id": "Exam-1-Review-4-13",
@@ -1573,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "14",
   "title": "",
-  "body": "  Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.   "
+  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     and are not independent.     So , , and . Finally: so and are not independent.   "
 },
 {
   "id": "Exam-1-Review-4-14",
@@ -1582,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "15",
   "title": "",
-  "body": "  An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:    "
+  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     and are independent.     So , , and . Finally: so and are independent.   "
 },
 {
   "id": "Exam-1-Review-4-15",
@@ -1591,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "16",
   "title": "",
-  "body": "  An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?    "
+  "body": "  Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3        Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.   "
 },
 {
   "id": "Exam-1-Review-4-16",
@@ -1600,7 +169,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "17",
   "title": "",
-  "body": "  A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.   "
+  "body": "  An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:    "
 },
 {
   "id": "Exam-1-Review-4-17",
@@ -1609,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "18",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find          "
+  "body": "  An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?     , so every additional flip multiplies the probability by 0.6. Therefore, the highest value for occurs when , in which case     "
 },
 {
   "id": "Exam-1-Review-4-18",
@@ -1618,16 +187,16 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "19",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .    "
+  "body": "  A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.    Let be the number of customers seen during the afternoon shift. Since the store averages 20 customers per hour, it will average 80 per 4-hours. So will have distribution . Therefore:    "
 },
 {
-  "id": "Exam-1-Review-4-19",
+  "id": "exercise-continuous-RV-find-k",
   "level": "2",
-  "url": "Exam-1-Review.html#Exam-1-Review-4-19",
+  "url": "Exam-1-Review.html#exercise-continuous-RV-find-k",
   "type": "Exercise",
   "number": "20",
   "title": "",
-  "body": "  A continuous random variable taking values in has c.d.f. . Find the p.d.f. .        "
+  "body": "  A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find          "
 },
 {
   "id": "Exam-1-Review-4-20",
@@ -1636,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "21",
   "title": "",
-  "body": "  Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,    "
+  "body": "  A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .    "
 },
 {
   "id": "Exam-1-Review-4-21",
@@ -1645,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "22",
   "title": "",
-  "body": "  Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3      "
+  "body": "  A continuous random variable taking values in has c.d.f. . Find the p.d.f. .        "
 },
 {
   "id": "Exam-1-Review-4-22",
@@ -1654,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "23",
   "title": "",
-  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.   "
+  "body": "  Let . Find and .     . .   "
 },
 {
   "id": "Exam-1-Review-4-23",
@@ -1663,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "24",
   "title": "",
-  "body": "  Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.    "
+  "body": "  Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,    "
 },
 {
   "id": "Exam-1-Review-4-24",
@@ -1672,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "25",
   "title": "",
-  "body": "  If , , and , what is ?    4.   "
+  "body": "  Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3      "
 },
 {
   "id": "Exam-1-Review-4-25",
@@ -1681,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "26",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?    2\/3.   "
+  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.   "
 },
 {
   "id": "Exam-1-Review-4-26",
@@ -1690,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "27",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?        "
+  "body": "  Let and be random variables each taking the values 1, 2, 3, 4, 5. Write different distribution tables for and so that they have the same expected value.     Example Distributions         1  0.2  0.1    2  0.2  0.1    3  0.2  0.6    4  0.2  0.1    5  0.2  0.1      "
 },
 {
   "id": "Exam-1-Review-4-27",
@@ -1699,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "28",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find .        "
+  "body": "  Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.    "
 },
 {
   "id": "Exam-1-Review-4-28",
@@ -1708,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "29",
   "title": "",
-  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1      "
+  "body": "  If , , and , what is ?    4.   "
 },
 {
   "id": "Exam-1-Review-4-29",
@@ -1717,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "30",
   "title": "",
-  "body": "  Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?   "
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?    2\/3.   "
 },
 {
   "id": "Exam-1-Review-4-30",
@@ -1726,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "31",
   "title": "",
-  "body": "  If , , what is ?   "
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?    0.   "
 },
 {
   "id": "Exam-1-Review-4-31",
@@ -1735,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "32",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?   "
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?        "
 },
 {
   "id": "Exam-1-Review-4-32",
@@ -1744,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "33",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?   "
+  "body": "  A continuous random variable taking values in has p.d.f. for some constant . In a previous problem ( ), you found the value of . Now, find .        "
 },
 {
   "id": "Exam-1-Review-4-33",
@@ -1753,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "34",
   "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find .   "
+  "body": "  A continuous random variable taking values in has p.d.f. . Find .     .   "
 },
 {
   "id": "Exam-1-Review-4-34",
@@ -1762,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "35",
   "title": "",
-  "body": "  Suppose a coin has an unknown probability of coming up heads. We perform the experiment in independent trials, during which it takes flips to see our first heads in each trial. Find a \"common sense\" MLE formula for the geometric distribution.   "
+  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1        .   "
 },
 {
   "id": "Exam-1-Review-4-35",
@@ -1771,7 +340,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "36",
   "title": "",
-  "body": "  A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?   "
+  "body": "  Let be a random variable taking the values 1, 2, 3, 4, 5. Write a distribution table for , then use your table to write a distribution for . Then, find .   "
 },
 {
   "id": "Exam-1-Review-4-36",
@@ -1780,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "37",
   "title": "",
-  "body": "  A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?   "
+  "body": "  Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?    When and , . When and , . When and , .   "
 },
 {
   "id": "Exam-1-Review-4-37",
@@ -1789,7 +358,88 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "38",
   "title": "",
-  "body": "  Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .   "
+  "body": "  If , , what is ?     .   "
+},
+{
+  "id": "Exam-1-Review-4-38",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-38",
+  "type": "Exercise",
+  "number": "39",
+  "title": "",
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?     .   "
+},
+{
+  "id": "Exam-1-Review-4-39",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-39",
+  "type": "Exercise",
+  "number": "40",
+  "title": "",
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?     .   "
+},
+{
+  "id": "Exam-1-Review-4-40",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-40",
+  "type": "Exercise",
+  "number": "41",
+  "title": "",
+  "body": "  A continuous random variable taking values in has p.d.f. . What is ?     .   "
+},
+{
+  "id": "Exam-1-Review-4-41",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-41",
+  "type": "Exercise",
+  "number": "42",
+  "title": "",
+  "body": "  A continuous random variable taking values in has p.d.f. for some constant . In a previous problem ( ), you found the value of . Now, find .     .   "
+},
+{
+  "id": "Exam-1-Review-4-42",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-42",
+  "type": "Exercise",
+  "number": "43",
+  "title": "",
+  "body": "  A continuous random variable taking values in has p.d.f. . Find .     .   "
+},
+{
+  "id": "Exam-1-Review-4-43",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-43",
+  "type": "Exercise",
+  "number": "44",
+  "title": "",
+  "body": "  Suppose a coin has an unknown probability of coming up heads. We perform the experiment in five independent trials, during which it takes 4, 5, 4, 3, and 6 flips to see our first heads in each trial. What is the maximum likelihood estimation for the probability of the coin coming up heads on a flip?     .   "
+},
+{
+  "id": "Exam-1-Review-4-44",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-44",
+  "type": "Exercise",
+  "number": "45",
+  "title": "",
+  "body": "  A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?     .   "
+},
+{
+  "id": "Exam-1-Review-4-45",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-45",
+  "type": "Exercise",
+  "number": "46",
+  "title": "",
+  "body": "  A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?     . The MLE is .   "
+},
+{
+  "id": "Exam-1-Review-4-46",
+  "level": "2",
+  "url": "Exam-1-Review.html#Exam-1-Review-4-46",
+  "type": "Exercise",
+  "number": "47",
+  "title": "",
+  "body": "  Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .     .   "
 },
 {
   "id": "Exam-2-Review",
@@ -1798,7 +448,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exam 2 Review",
-  "body": " Exam 2 Review   Use the following problems to prepare for the exam. There will be in-class review on Tuesday 3\/31 and Thursday 4\/2. Your recitation this week will also be exam review.    Allowed Materials  You will be allowed to use a scientific calculator ( not a graphing calculator, not a calculator app on your phone). You may not share a calculator with another student; you must use your own calculator.  You may bring a standard 3 in x 5 in index card with prepared notes. You may use both sides of the notecard. You must put your full name in the top right corner of the card, and turn it in along with your exam.      Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .           Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .           The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .       Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .      Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .       The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .      The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .      In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.      We find a coin on the street and wonder whether or not it's a fair coin.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.       Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?      Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?      A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams .      We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?      Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. The expected number of 1's is 50\/3, with a variance of 125\/9.     Using a normal approximation, what is the smallest number of 1's greater than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Using a normal approximation, what is the greatest number of 1's less than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Suppose that this die is weighted so that it rolls a 1 with probability 0.2. What would be the power of our test?      Suppose we roll the die 100 times and see 23 1's. Use the maximum likelihood value for the probability of rolling a 1 to calculate the power of the test.       Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?      A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14         A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?      Is the data consistent with a binomial distribution with the MLE value of ?      "
+  "body": " Exam 2 Review   Use the following problems to prepare for the exam. There will be in-class review on Tuesday 11\/3 and Thursday 11\/5. Your recitation this week will also be exam review.    Allowed Materials  You will be allowed to use a scientific calculator ( not a graphing calculator, not a calculator app on your phone). You may not share a calculator with another student; you must use your own calculator.  You may bring a standard 3 in x 5 in index card with prepared notes. You may use both sides of the notecard. You must put your full name in the top right corner of the card, and turn it in along with your exam.      Suppose a coin has an unknown probability of coming up heads. We perform the experiment in five independent trials, during which it takes 4, 5, 4, 3, and 6 flips to see our first heads in each trial. What is the maximum likelihood estimation for the probability of the coin coming up heads on a flip?     .      A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?     .      A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?     . The MLE is .      Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .     .      Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .           Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .           The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .       Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .      Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .       The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .      The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .      In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.    1-tailed.      We find a coin on the street and wonder whether or not it's a fair coin.    2-tailed.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.    2-tailed.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.    1-tailed.       Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.      Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?    The -value is , so we do not reject the null hypothesis.      A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams . Is this sufficient evidence to reject the null hypothesis that the new plant fertilizer has no effect on the weights of the apples?    The -value is , so we do not reject the null hypothesis.      We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?    The -value is , so we do not reject the null hypothesis.      Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a probability of coming up heads, what is the power of this test?    (Note: Normal approximation was used for these calculations.)  We can reject the null hypothesis if we see greater than or equal to heads, or if we see less than or equal to heads.  If the coin has a probability of coming up heads, then the power of the test is .      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?    (Note: Normal approximation was used for these calculations.)  We can reject the null hypothesis if we see greater than or equal to heads.  If the coin has a probability of coming up heads, then the power of the test is .      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. The expected number of 1's is 50\/3, with a variance of 125\/9.     Using a normal approximation, what is the smallest number of 1's greater than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Using a normal approximation, what is the greatest number of 1's less than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Suppose that this die is weighted so that it rolls a 1 with probability 0.2. What would be the power of our test?      Suppose we roll the die 100 times and see 23 1's. Use the maximum likelihood value for the probability of rolling a 1 to calculate the power of the test.       Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?    The minimum average height to reject the null hypothesis is in.  The power of the test given the true average height of in is .      A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14        , the critical value with 4 degrees of freedom is , so the data is consistent with the null hypothesis.      A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?    We have without pooling categories, but when pooling the categories and together. After pooling, with degrees of freedom, we do not reject the null hypothesis.      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?     people have been administered the drug, with responding to it. So the maximum likelihood estimation for the probability of responding to the drug is .      Is the data consistent with a binomial distribution with the MLE value of ?    We have without pooling categories, but when pooling the categories and together. After pooling, with degrees of freedom, we do not reject the null hypothesis.       Suppose a sample of measurements are taken, and the sample is found to have a mean of with a standard error of .     Find the 95% confidence limits.      Find the 92% confidence limits.      Find the 97% confidence limits.      Find the 99% confidence limits.      "
 },
 {
   "id": "Exam-2-Review-4-1",
@@ -1807,7 +457,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "1",
   "title": "",
-  "body": "  Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .        "
+  "body": "  Suppose a coin has an unknown probability of coming up heads. We perform the experiment in five independent trials, during which it takes 4, 5, 4, 3, and 6 flips to see our first heads in each trial. What is the maximum likelihood estimation for the probability of the coin coming up heads on a flip?     .   "
 },
 {
   "id": "Exam-2-Review-4-2",
@@ -1816,7 +466,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2",
   "title": "",
-  "body": "  Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .        "
+  "body": "  A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?     .   "
 },
 {
   "id": "Exam-2-Review-4-3",
@@ -1825,7 +475,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "3",
   "title": "",
-  "body": "  The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .    "
+  "body": "  A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?     . The MLE is .   "
 },
 {
   "id": "Exam-2-Review-4-4",
@@ -1834,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4",
   "title": "",
-  "body": "  Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .   "
+  "body": "  Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .     .   "
 },
 {
   "id": "Exam-2-Review-4-5",
@@ -1843,7 +493,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5",
   "title": "",
-  "body": "  Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .    "
+  "body": "  Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .        "
 },
 {
   "id": "Exam-2-Review-4-6",
@@ -1852,7 +502,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6",
   "title": "",
-  "body": "  The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .   "
+  "body": "  Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .        "
 },
 {
   "id": "Exam-2-Review-4-7",
@@ -1861,7 +511,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7",
   "title": "",
-  "body": "  The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .   "
+  "body": "  The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .    "
 },
 {
   "id": "Exam-2-Review-4-8",
@@ -1870,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8",
   "title": "",
-  "body": "  In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.      We find a coin on the street and wonder whether or not it's a fair coin.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.    "
+  "body": "  Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .   "
 },
 {
   "id": "Exam-2-Review-4-9",
@@ -1879,7 +529,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9",
   "title": "",
-  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?   "
+  "body": "  Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .    "
 },
 {
   "id": "Exam-2-Review-4-10",
@@ -1888,7 +538,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10",
   "title": "",
-  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?   "
+  "body": "  The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .   "
 },
 {
   "id": "Exam-2-Review-4-11",
@@ -1897,7 +547,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11",
   "title": "",
-  "body": "  Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?   "
+  "body": "  The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .   "
 },
 {
   "id": "Exam-2-Review-4-12",
@@ -1906,7 +556,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "12",
   "title": "",
-  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?   "
+  "body": "  In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.    1-tailed.      We find a coin on the street and wonder whether or not it's a fair coin.    2-tailed.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.    2-tailed.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.    1-tailed.    "
 },
 {
   "id": "Exam-2-Review-4-13",
@@ -1915,7 +565,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "13",
   "title": "",
-  "body": "  A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams .   "
+  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-14",
@@ -1924,7 +574,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "14",
   "title": "",
-  "body": "  We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?   "
+  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-15",
@@ -1933,7 +583,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "15",
   "title": "",
-  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?   "
+  "body": "  Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-16",
@@ -1942,7 +592,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "16",
   "title": "",
-  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?   "
+  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-17",
@@ -1951,7 +601,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "17",
   "title": "",
-  "body": "  Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. The expected number of 1's is 50\/3, with a variance of 125\/9.     Using a normal approximation, what is the smallest number of 1's greater than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Using a normal approximation, what is the greatest number of 1's less than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Suppose that this die is weighted so that it rolls a 1 with probability 0.2. What would be the power of our test?      Suppose we roll the die 100 times and see 23 1's. Use the maximum likelihood value for the probability of rolling a 1 to calculate the power of the test.    "
+  "body": "  A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams . Is this sufficient evidence to reject the null hypothesis that the new plant fertilizer has no effect on the weights of the apples?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-18",
@@ -1960,7 +610,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "18",
   "title": "",
-  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?   "
+  "body": "  We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?    The -value is , so we do not reject the null hypothesis.   "
 },
 {
   "id": "Exam-2-Review-4-19",
@@ -1969,7 +619,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "19",
   "title": "",
-  "body": "  A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14      "
+  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a probability of coming up heads, what is the power of this test?    (Note: Normal approximation was used for these calculations.)  We can reject the null hypothesis if we see greater than or equal to heads, or if we see less than or equal to heads.  If the coin has a probability of coming up heads, then the power of the test is .   "
 },
 {
   "id": "Exam-2-Review-4-20",
@@ -1978,628 +628,52 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "20",
   "title": "",
-  "body": "  A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?      Is the data consistent with a binomial distribution with the MLE value of ?    "
+  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?    (Note: Normal approximation was used for these calculations.)  We can reject the null hypothesis if we see greater than or equal to heads.  If the coin has a probability of coming up heads, then the power of the test is .   "
 },
 {
-  "id": "Final-Exam-Review",
-  "level": "1",
-  "url": "Final-Exam-Review.html",
-  "type": "Section",
-  "number": "",
-  "title": "Final Exam Review",
-  "body": " Final Exam Review   Use the following problems to prepare for the exam. There will be in-class review on Thursday, April 23. Your recitation this week will also be exam review.    Allowed Materials  You will be allowed to use a scientific calculator ( not a graphing calculator, not a calculator app on your phone). You may not share a calculator with another student; you must use your own calculator.  You may bring a standard 3 in x 5 in index card with prepared notes. You may use both sides of the notecard. You must put your full name in the top right corner of the card, and turn it in along with your exam.      Consider the sets , , and , which are all subsets of .     Find .           Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .       Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]     Note that simply lists outcomes with no reference to the probabilities. So the answer here is the same as in .      Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips: .  For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .      If we roll a 6-sided die ten times, how many possible results will there be?    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have       Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1              Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6          Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6          A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    For short, write to mean the probability of the toxin molecule leaving during the th minute. Then   The probability of leaving during the first 3 minutes is         In each of the following scenarios with given events and , alculate , , , and .     An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:       An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:        A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?            An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     So , , and . Finally: so and are not independent.      An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     So , , and . Finally: so and are independent.      Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.      An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:       An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?       A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.      A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find             A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .       A continuous random variable taking values in has c.d.f. . Find the p.d.f. .           Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,       Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3         Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.      Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.       If , , and , what is ?    4.      A continuous random variable taking values in has p.d.f. . What is ?    2\/3.      A continuous random variable taking values in has p.d.f. . What is ?           A continuous random variable taking values in has p.d.f. . Find .           Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1         Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?      If , , what is ?      A continuous random variable taking values in has p.d.f. . What is ?      A continuous random variable taking values in has p.d.f. . What is ?      A continuous random variable taking values in has p.d.f. . Find .      Suppose a coin has an unknown probability of coming up heads. We perform the experiment in independent trials, during which it takes flips to see our first heads in each trial. Find a \"common sense\" MLE formula for the geometric distribution.      A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?      A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?      Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .      Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .           Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .           The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .       Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .      Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .       The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .      The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .      In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.      We find a coin on the street and wonder whether or not it's a fair coin.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.       Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?      Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?      A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams .      We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?      Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?      Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?      Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. The expected number of 1's is 50\/3, with a variance of 125\/9.     Using a normal approximation, what is the smallest number of 1's greater than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Using a normal approximation, what is the greatest number of 1's less than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Suppose that this die is weighted so that it rolls a 1 with probability 0.2. What would be the power of our test?      Suppose we roll the die 100 times and see 23 1's. Use the maximum likelihood value for the probability of rolling a 1 to calculate the power of the test.       Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?      A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14         A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?      Is the data consistent with a binomial distribution with the MLE value of ?       Calculate the covariance of and :            0.12  0.24     0.3  34         Calculate the covariance of and :             0.08  0.16  0.1     0.14  0.2  0.32         Suppose we roll a fair, 4-sided die two times. Let be the sum of the rolls, and let be the product of the rolls. Find the covariance of and .  [Note: Somewhat tedious.]      Calculate the correlation of and :            0.12  0.24     0.3  34         Calculate the correlation of and :             0.08  0.16  0.1     0.14  0.2  0.32         Suppose we roll a fair, 4-sided die two times. Let be the sum of the rolls, and let be the product of the rolls. Find the correlation of and .  [Note: Somewhat tedious.]      A survey of local companies collects information about marketing budgets and revenue (each measures in thousands of dollars), shown below. A linear regression gives the best linear fit as . What is the coefficient of determination ?             200  4300  2073600  3686  377377    420  7700  3841600  7707  53    270  4500  1537600  4965  216495    380  7000  1587600  6976  572    300  5200  291600  5514  98401    sum:  28700  9332000  28848  692898         A sample of 100 measurements are taken and a best fit line is calculated, resulting in the data below (the final line shows the sums for each column). Find the coefficient of determination.             38.00  121.00  93.17  11.83  774.33    87.00  241.00  238.95  13586.23  4.22    30.00  61.00  69.37  4024.63  70.12    35.00  85.00  84.25  1555.51  0.57    ⋮  ⋮  ⋮  ⋮  ⋮    33.00  108.00  78.30  270.27  882.19    26.00  32.00  57.47  8545.15  648.91    sum:  12444.00  12444.00  515206.64  29789.80        "
-},
-{
-  "id": "Final-Exam-Review-4-1",
+  "id": "Exam-2-Review-4-21",
   "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-1",
-  "type": "Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Consider the sets , , and , which are all subsets of .     Find .           Find , , , , , , , and . Is it true that the size of the union of sets is equal to the sum of the sizes of the individual sets?     , , , , , , , . In particular, note that , so it is not true in general that the size of the union of sets is the sum of the sizes of the individual sets.      Find and .     , .    "
-},
-{
-  "id": "Final-Exam-Review-4-2",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-2",
-  "type": "Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Suppose we have a 6-sided die that's weighted to roll a 6 half of the time. We roll the die two times. List the set of all possible results. [Note: the result (2, 4)---rolling a 2 and then a 4---is different from the result ---rolling a 4 and then a 2.]     Note that simply lists outcomes with no reference to the probabilities. So the answer here is the same as in .   "
-},
-{
-  "id": "Final-Exam-Review-4-3",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-3",
-  "type": "Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Suppose we flip a coin two times. List the set of all possible results. What about flipping three times? Four times? If we flip the coin 10 times, how many possible results will there be?    For two flips: .  For three flips: .  For four flips:   Each additional flip doubles the number of outcomes. So, with ten flips, we'll have .   "
-},
-{
-  "id": "Final-Exam-Review-4-4",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-4",
-  "type": "Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  If we roll a 6-sided die ten times, how many possible results will there be?    Each additional roll will multiply the number of outcomes by 6. So, with 10 rolls, we'll have    "
-},
-{
-  "id": "Final-Exam-Review-4-5",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-5",
-  "type": "Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Consider the sample space with probability distribution below. Calculate the probabilities of , , , and .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1           "
-},
-{
-  "id": "Final-Exam-Review-4-6",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-6",
-  "type": "Exercise",
-  "number": "6",
-  "title": "",
-  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, the probabilities scale by the same amount as the face values. For example, a result of 4 is twice as likely as a result of 2, since 4 is twice as large as 2; a result of 6 is six times more likely than a result of 1; and so on. Write a probability distribution table for this die.     Probability Distribution for a Linearly Scaled Die        1     2     3     4     5     6       "
-},
-{
-  "id": "Final-Exam-Review-4-7",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-7",
-  "type": "Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  Suppose a die has the values on the faces, but the die is not fair. Instead, each even value has an equal probability, each odd value has an equal probability, and the even values are each twice as likely as the odd values to appear on a roll. Write a probability distribution table for this die.     Probability Distribution for an Even-biased Die        1     2     3     4     5     6       "
-},
-{
-  "id": "Final-Exam-Review-4-8",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-8",
-  "type": "Exercise",
-  "number": "8",
-  "title": "",
-  "body": "  A toxin molecule inside a cell has a 0.3 probability of leaving the cell during a 1-minute period. For each value of , find the probability of the toxin molecule leaving the cell during the th minute. What is the probability of the molecule leaving the cell during the first 3 minutes?    For short, write to mean the probability of the toxin molecule leaving during the th minute. Then   The probability of leaving during the first 3 minutes is    "
-},
-{
-  "id": "Final-Exam-Review-4-9-2",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-9-2",
-  "type": "Exercise",
-  "number": "9",
-  "title": "",
-  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first.     So , , and . Finally:    "
-},
-{
-  "id": "Final-Exam-Review-4-9-3",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-9-3",
-  "type": "Exercise",
-  "number": "10",
-  "title": "",
-  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads.     So , , and . Finally:    "
-},
-{
-  "id": "Final-Exam-Review-4-10",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-10",
-  "type": "Exercise",
-  "number": "11",
-  "title": "",
-  "body": "  A diagnostic test is developed to detect a disease present in 3.2% of the population. For a patient who has the disease, the test will accurately give a positive result 65% of the time. When the patient does not have the disease, the test will accurately give a negative result 99.9% of the time.     For a patient who receives a positive test, what is the probability they have the disease?    Let be the event of testing positive and the event of having the disease. Then the prevalence is given as 3.2%, or 0.032. The sensitivity is , and the specificity is . So, according to Bayes' Theorem:       For a patient who receives a negative test, what is the probability they do not have the disease?         "
-},
-{
-  "id": "Final-Exam-Review-4-11",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-11",
-  "type": "Exercise",
-  "number": "12",
-  "title": "",
-  "body": "  An experiment consists of rolling a fair die two times. Let be the event that the sum is even, and let be the event that the second roll is higher than the first. Are and independent?     So , , and . Finally: so and are not independent.   "
-},
-{
-  "id": "Final-Exam-Review-4-12",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-12",
-  "type": "Exercise",
-  "number": "13",
-  "title": "",
-  "body": "  An experiment consists of flipping a fair coin three times. Let be the event that the first and second flips match. Let be the event that there are at least two heads. Are and independent?     So , , and . Finally: so and are independent.   "
-},
-{
-  "id": "Final-Exam-Review-4-13",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-13",
-  "type": "Exercise",
-  "number": "14",
-  "title": "",
-  "body": "  Let and be events in the sample space . Create a probability distribution for so that are independent.     Example Distribution        1  0.1    2  0.2    3  0.2    4  0.1    5  0.1    6  0.3     Now , , and so and are independent.   "
-},
-{
-  "id": "Final-Exam-Review-4-14",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-14",
-  "type": "Exercise",
-  "number": "15",
-  "title": "",
-  "body": "  An experiment consists of flipping a biased coin 20 times. If the coin comes up heads with probability , find the probability of seeing 5 heads. Find the probability of seeing up to (and including) 3 heads.    Let be the number of heads. Then , so:    "
-},
-{
-  "id": "Final-Exam-Review-4-15",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-15",
-  "type": "Exercise",
-  "number": "16",
-  "title": "",
-  "body": "  An experiment consists of flipping a coin repeatedly until we first see heads.     If the coin comes up heads with probability 0.4, what is the probability we'll see our first heads within three flips? What about precisely on the third flip?    Let be the number of flips until we see heads. Then is geometric with parameter , so:       Which flip has the highest chance of being the first flip to come up heads?    "
-},
-{
-  "id": "Final-Exam-Review-4-16",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-16",
-  "type": "Exercise",
-  "number": "17",
-  "title": "",
-  "body": "  A particular store has an average of 20 customers each hour. During a 4-hour afternoon shift, what is the probability of serving 80 customers.   "
-},
-{
-  "id": "Final-Exam-Review-4-17",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-17",
-  "type": "Exercise",
-  "number": "18",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. for some constant .     What is the value of ?           Find          "
-},
-{
-  "id": "Final-Exam-Review-4-18",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-18",
-  "type": "Exercise",
-  "number": "19",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find the c.d.f. . Use your c.d.f. to find .     .    "
-},
-{
-  "id": "Final-Exam-Review-4-19",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-19",
-  "type": "Exercise",
-  "number": "20",
-  "title": "",
-  "body": "  A continuous random variable taking values in has c.d.f. . Find the p.d.f. .        "
-},
-{
-  "id": "Final-Exam-Review-4-20",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-20",
+  "url": "Exam-2-Review.html#Exam-2-Review-4-21",
   "type": "Exercise",
   "number": "21",
-  "title": "",
-  "body": "  Consider with the joint distribution table below. Are independent?   Joint distribution for          0.2  0.3     0.4  0.1       No. For example,    "
-},
-{
-  "id": "Final-Exam-Review-4-21",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-21",
-  "type": "Exercise",
-  "number": "22",
-  "title": "",
-  "body": "  Suppose have the distributions: Assuming are independent, write a joint distribution table.     Joint Distribution           0.04  0.16  0.2     0.06  0.24  0.3      "
-},
-{
-  "id": "Final-Exam-Review-4-22",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-22",
-  "type": "Exercise",
-  "number": "23",
-  "title": "",
-  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1       4.8.   "
-},
-{
-  "id": "Final-Exam-Review-4-23",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-23",
-  "type": "Exercise",
-  "number": "24",
-  "title": "",
-  "body": "  Suppose we flip a coin times, and let count the number of heads.     If the coin comes up heads on a flip with probability , what is ?    40.      What if and ?    48.      What if and ?    100.    "
-},
-{
-  "id": "Final-Exam-Review-4-24",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-24",
-  "type": "Exercise",
-  "number": "25",
-  "title": "",
-  "body": "  If , , and , what is ?    4.   "
-},
-{
-  "id": "Final-Exam-Review-4-25",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-25",
-  "type": "Exercise",
-  "number": "26",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?    2\/3.   "
-},
-{
-  "id": "Final-Exam-Review-4-26",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-26",
-  "type": "Exercise",
-  "number": "27",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?        "
-},
-{
-  "id": "Final-Exam-Review-4-27",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-27",
-  "type": "Exercise",
-  "number": "28",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find .        "
-},
-{
-  "id": "Final-Exam-Review-4-28",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-28",
-  "type": "Exercise",
-  "number": "29",
-  "title": "",
-  "body": "  Consider a random variable with probability distribution below. Find .          1  0.1    2  0.05    3  0.2    4  0.15    5  0.15    6  0.1    7  0.05    8  0.1    9  0.1      "
-},
-{
-  "id": "Final-Exam-Review-4-29",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-29",
-  "type": "Exercise",
-  "number": "30",
-  "title": "",
-  "body": "  Suppose we flip a coin times, and let count the number of heads. If the coin comes up heads on a flip with probability , what is ? What if and ? What if and ?   "
-},
-{
-  "id": "Final-Exam-Review-4-30",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-30",
-  "type": "Exercise",
-  "number": "31",
-  "title": "",
-  "body": "  If , , what is ?   "
-},
-{
-  "id": "Final-Exam-Review-4-31",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-31",
-  "type": "Exercise",
-  "number": "32",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?   "
-},
-{
-  "id": "Final-Exam-Review-4-32",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-32",
-  "type": "Exercise",
-  "number": "33",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . What is ?   "
-},
-{
-  "id": "Final-Exam-Review-4-33",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-33",
-  "type": "Exercise",
-  "number": "34",
-  "title": "",
-  "body": "  A continuous random variable taking values in has p.d.f. . Find .   "
-},
-{
-  "id": "Final-Exam-Review-4-34",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-34",
-  "type": "Exercise",
-  "number": "35",
-  "title": "",
-  "body": "  Suppose a coin has an unknown probability of coming up heads. We perform the experiment in independent trials, during which it takes flips to see our first heads in each trial. Find a \"common sense\" MLE formula for the geometric distribution.   "
-},
-{
-  "id": "Final-Exam-Review-4-35",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-35",
-  "type": "Exercise",
-  "number": "36",
-  "title": "",
-  "body": "  A particular store owner wants to approximate the average hourly rate at which customers come into the store. They observe 80 customers enter during a particular 4-hour shift. What is the maximum likelihood estimation for the hourly customer rate?   "
-},
-{
-  "id": "Final-Exam-Review-4-36",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-36",
-  "type": "Exercise",
-  "number": "37",
-  "title": "",
-  "body": "  A radioactive material emits particles at an unknown probabilistic rate particles per minute. We observe particles emitted at times 1.1, 1.7, 1.3, 2.2, 1.9, and 1.8 minutes. Write the likelihood function based on this data. What is the maximum likelihood estimation for ?   "
-},
-{
-  "id": "Final-Exam-Review-4-37",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-37",
-  "type": "Exercise",
-  "number": "38",
-  "title": "",
-  "body": "  Suppose a parameter takes values in with likelihood function . Find the maximum likelihood estimation of .   "
-},
-{
-  "id": "Final-Exam-Review-4-38",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-38",
-  "type": "Exercise",
-  "number": "39",
-  "title": "",
-  "body": "  Suppose a coin has probability 0.4 of coming up heads, and we flip the coin 100 times. Let be the number of heads. Estimate the probability that .        "
-},
-{
-  "id": "Final-Exam-Review-4-39",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-39",
-  "type": "Exercise",
-  "number": "40",
-  "title": "",
-  "body": "  Suppose a fair die is rolled 100 times, and let be the average value of the rolls. Estimate the probability that .        "
-},
-{
-  "id": "Final-Exam-Review-4-40",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-40",
-  "type": "Exercise",
-  "number": "41",
-  "title": "",
-  "body": "  The heights of men in the US have a mean of 69 in and a variance of about 9 in , and the heights of women in the US have a mean of 63.5 in with a variance of 6.25 in .     Suppose the heights of 30 men are sampled, and a sample mean is taken. Find the expected value and variance of .     and .      Estimate the probability that .     .      If the sampled group was women, estimate the probability that .     and . .    "
-},
-{
-  "id": "Final-Exam-Review-4-41",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-41",
-  "type": "Exercise",
-  "number": "42",
-  "title": "",
-  "body": "  Suppose we flip a coin 100 times and count 60 heads. Let be the (unknown) probability that the coin comes up heads on a flip. Give an approximate 95% confidence interval for the value of .     .   "
-},
-{
-  "id": "Final-Exam-Review-4-42",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-42",
-  "type": "Exercise",
-  "number": "43",
-  "title": "",
-  "body": "  Suppose in a sample of 100 people, 12 are left-handed.     Give a 95% confidence interval for the proportion of left-handed people.     .      Give a 90% confidence interval.     .    "
-},
-{
-  "id": "Final-Exam-Review-4-43",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-43",
-  "type": "Exercise",
-  "number": "44",
-  "title": "",
-  "body": "  The weights of five mice are measured and recorded below. Give a 95% confidence interval for the sample mean weight of mice. (Pretend 5 measurements is large enough for the CLT to apply.)      mouse  weight (g)    1  26    2  32    3  33    4  20    5  29            .   "
-},
-{
-  "id": "Final-Exam-Review-4-44",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-44",
-  "type": "Exercise",
-  "number": "45",
-  "title": "",
-  "body": "  The heights of five plants are measured and recorded below. Give a 95% confidence interval around the sample mean for the heights of the plants. (Pretend 5 measurements is large enough for the CLT to apply.)      plant  height (in)    1  15    2  14    3  18    4  21    5  17            .   "
-},
-{
-  "id": "Final-Exam-Review-4-45",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-45",
-  "type": "Exercise",
-  "number": "46",
-  "title": "",
-  "body": "  In each of the following scenarios, determine whether we should use a 1-tailed test or a 2-tailed test.     We have a coin which we've flipped many times, seeing an above-average number of heads. We suspect the coin comes up heads more often than a fair coin would.      We find a coin on the street and wonder whether or not it's a fair coin.      We suspect there will be a difference in average weight of mice caught during the summer versus during the winter.      In a medical study, a group of patients are gathered and the proportion experiencing particular symptoms is measured. A new drug intended to eliminate these symptoms is administered, after which the proportion experiencing symptoms is measured again.    "
-},
-{
-  "id": "Final-Exam-Review-4-46",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-46",
-  "type": "Exercise",
-  "number": "47",
-  "title": "",
-  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?   "
-},
-{
-  "id": "Final-Exam-Review-4-47",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-47",
-  "type": "Exercise",
-  "number": "48",
-  "title": "",
-  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads. If we see 112 heads, should we accept or reject the null hypothesis of a fair coin at a significance level of 0.05?   "
-},
-{
-  "id": "Final-Exam-Review-4-48",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-48",
-  "type": "Exercise",
-  "number": "49",
-  "title": "",
-  "body": "  Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. If we roll 22 1's, should we accept or reject the null hypothesis of a fair die at a significance level of 0.05?   "
-},
-{
-  "id": "Final-Exam-Review-4-49",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-49",
-  "type": "Exercise",
-  "number": "50",
-  "title": "",
-  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. A sample of 50 plants grown in a greenhouse has an average height of 40 in. Is this significant enough data to reject the null hypothesis of equal means at the significance level?   "
-},
-{
-  "id": "Final-Exam-Review-4-50",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-50",
-  "type": "Exercise",
-  "number": "51",
-  "title": "",
-  "body": "  A farmer is testing an experimental new plant fertilizer that is supposed to increase the weight of a particular apple variety. A control sample of 25 apples grown using the usual fertilizer have a mean weight of 75 grams and a sample variance of 90 grams (for an individual apple). An experimental sample of 25 apples grown using the new fertilizer have a mean weight of 79 grams and a sample variance of 90 grams .   "
-},
-{
-  "id": "Final-Exam-Review-4-51",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-51",
-  "type": "Exercise",
-  "number": "52",
-  "title": "",
-  "body": "  We have an established factory which produces coins that are close to fair. We're opening up a second factory, and we'd like to ensure the machines are calibrated to produce coins which behave similarly to the ones produced in the established factory. We pick one sample coin from each factory, and flip each sample coin 100 times. The coin from the established factory flips 52 heads in 100 flips. The coin from the new factory flips 62 heads in 100 flips. Is this strong enough evidence to reject the null hypothesis that the two factories produce similar coins at a 0.05 significance level?   "
-},
-{
-  "id": "Final-Exam-Review-4-52",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-52",
-  "type": "Exercise",
-  "number": "53",
-  "title": "",
-  "body": "  Suppose we find a coin and wonder whether it's fair. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?   "
-},
-{
-  "id": "Final-Exam-Review-4-53",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-53",
-  "type": "Exercise",
-  "number": "54",
-  "title": "",
-  "body": "  Suppose we have a coin which we suspect comes up heads more often than a fair coin would. As a first test, we decide to flip the coin 200 times and count the number of heads, . What values of would be extreme enough to reject the null hypothesis of a fair coin? If the coin actually has a 0.6 probability of coming up heads, what is the power of this test?   "
-},
-{
-  "id": "Final-Exam-Review-4-54",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-54",
-  "type": "Exercise",
-  "number": "55",
   "title": "",
   "body": "  Suppose we find a six-sided die and wonder whether it's fair. As a first test, we decide to roll the die 100 times and count the number of times it comes up 1. The expected number of 1's is 50\/3, with a variance of 125\/9.     Using a normal approximation, what is the smallest number of 1's greater than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Using a normal approximation, what is the greatest number of 1's less than 50\/3 that would be extreme enough to reject the null hypothesis of a fair die?      Suppose that this die is weighted so that it rolls a 1 with probability 0.2. What would be the power of our test?      Suppose we roll the die 100 times and see 23 1's. Use the maximum likelihood value for the probability of rolling a 1 to calculate the power of the test.    "
 },
 {
-  "id": "Final-Exam-Review-4-55",
+  "id": "Exam-2-Review-4-22",
   "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-55",
+  "url": "Exam-2-Review.html#Exam-2-Review-4-22",
   "type": "Exercise",
-  "number": "56",
+  "number": "22",
   "title": "",
-  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?   "
+  "body": "  Suppose a particular plant when grown outdoors has an average height of 39 in with a variance of 20 in . We suspect that growing this plant in a greenhouse will increase its height. We take the average height of a sample of 50 plants grown in a greenhouse. What is the minimum average height of this sample that would be extreme enough to reject the null hypothesis of equal means at the significance level? If the plants, when grown in a greenhouse, would truly have an average height of 41 in, what is the power of our test?    The minimum average height to reject the null hypothesis is in.  The power of the test given the true average height of in is .   "
 },
 {
-  "id": "Final-Exam-Review-4-56",
+  "id": "Exam-2-Review-4-23",
   "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-56",
+  "url": "Exam-2-Review.html#Exam-2-Review-4-23",
   "type": "Exercise",
-  "number": "57",
+  "number": "23",
   "title": "",
-  "body": "  A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14      "
+  "body": "  A store owner wants to determine how much shelf space to allocate to each of the drinks that they sell. They survey their customers about their favorite drinks. Is the data below consistent with the null hypothesis that each type of drink will be equally preferred?      drink type  water  soda  tea  coffee  energy drinks    favorite  28  17  15  26  14        , the critical value with 4 degrees of freedom is , so the data is consistent with the null hypothesis.   "
 },
 {
-  "id": "Final-Exam-Review-4-57",
+  "id": "Exam-2-Review-4-24",
   "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-57",
+  "url": "Exam-2-Review.html#Exam-2-Review-4-24",
   "type": "Exercise",
-  "number": "58",
+  "number": "24",
   "title": "",
-  "body": "  A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?      Is the data consistent with a binomial distribution with the MLE value of ?    "
+  "body": "  A particular drug is administered in 100 independent trials. In each trial, the drug is administered to four people, and we count how many respond to the drug. The table below shows how many trials have each different count of people who respond to the drug.      # who respond to drug  0  1  2  3  4    # of trials  3  11  31  34  21        Is the data consistent with a binomial distribution with parameter ?    We have without pooling categories, but when pooling the categories and together. After pooling, with degrees of freedom, we do not reject the null hypothesis.      What is the total number of people who have been administered the drug? What is the total number who have responded to it? What is the maximum likelihood estimation for the probability that a person will respond to the drug?     people have been administered the drug, with responding to it. So the maximum likelihood estimation for the probability of responding to the drug is .      Is the data consistent with a binomial distribution with the MLE value of ?    We have without pooling categories, but when pooling the categories and together. After pooling, with degrees of freedom, we do not reject the null hypothesis.    "
 },
 {
-  "id": "Final-Exam-Review-4-58",
+  "id": "Exam-2-Review-4-25",
   "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-58",
+  "url": "Exam-2-Review.html#Exam-2-Review-4-25",
   "type": "Exercise",
-  "number": "59",
+  "number": "25",
   "title": "",
-  "body": "  Calculate the covariance of and :            0.12  0.24     0.3  34      "
-},
-{
-  "id": "Final-Exam-Review-4-59",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-59",
-  "type": "Exercise",
-  "number": "60",
-  "title": "",
-  "body": "  Calculate the covariance of and :             0.08  0.16  0.1     0.14  0.2  0.32      "
-},
-{
-  "id": "Final-Exam-Review-4-60",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-60",
-  "type": "Exercise",
-  "number": "61",
-  "title": "",
-  "body": "  Suppose we roll a fair, 4-sided die two times. Let be the sum of the rolls, and let be the product of the rolls. Find the covariance of and .  [Note: Somewhat tedious.]   "
-},
-{
-  "id": "Final-Exam-Review-4-61",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-61",
-  "type": "Exercise",
-  "number": "62",
-  "title": "",
-  "body": "  Calculate the correlation of and :            0.12  0.24     0.3  34      "
-},
-{
-  "id": "Final-Exam-Review-4-62",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-62",
-  "type": "Exercise",
-  "number": "63",
-  "title": "",
-  "body": "  Calculate the correlation of and :             0.08  0.16  0.1     0.14  0.2  0.32      "
-},
-{
-  "id": "Final-Exam-Review-4-63",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-63",
-  "type": "Exercise",
-  "number": "64",
-  "title": "",
-  "body": "  Suppose we roll a fair, 4-sided die two times. Let be the sum of the rolls, and let be the product of the rolls. Find the correlation of and .  [Note: Somewhat tedious.]   "
-},
-{
-  "id": "Final-Exam-Review-4-64",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-64",
-  "type": "Exercise",
-  "number": "65",
-  "title": "",
-  "body": "  A survey of local companies collects information about marketing budgets and revenue (each measures in thousands of dollars), shown below. A linear regression gives the best linear fit as . What is the coefficient of determination ?             200  4300  2073600  3686  377377    420  7700  3841600  7707  53    270  4500  1537600  4965  216495    380  7000  1587600  6976  572    300  5200  291600  5514  98401    sum:  28700  9332000  28848  692898      "
-},
-{
-  "id": "Final-Exam-Review-4-65",
-  "level": "2",
-  "url": "Final-Exam-Review.html#Final-Exam-Review-4-65",
-  "type": "Exercise",
-  "number": "66",
-  "title": "",
-  "body": "  A sample of 100 measurements are taken and a best fit line is calculated, resulting in the data below (the final line shows the sums for each column). Find the coefficient of determination.             38.00  121.00  93.17  11.83  774.33    87.00  241.00  238.95  13586.23  4.22    30.00  61.00  69.37  4024.63  70.12    35.00  85.00  84.25  1555.51  0.57    ⋮  ⋮  ⋮  ⋮  ⋮    33.00  108.00  78.30  270.27  882.19    26.00  32.00  57.47  8545.15  648.91    sum:  12444.00  12444.00  515206.64  29789.80      "
-},
-{
-  "id": "boxes",
-  "level": "1",
-  "url": "boxes.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Boxes",
-  "body": " Boxes    The following is not for credit and will not be covered on any quiz or exam. This is just for fun.       A superintelligent robot named Bob waits in a room with two boxes. Box 1 contains $1000. Box 2 is a mystery box containing a secret amount of money. Bob will offer you the choice:   You can take the mystery box alone, or    You can take both boxes.   Bob is very accurate at predicting ahead of time what people will do. If Bob thinks that you'll choose to take only the mystery box, he'll put $1 million dollars in the mystery box. If Bob thinks that you'll choose to take both boxes, he'll put nothing in the mystery box. Bob made his prediction and placed either $1 million or $0 in the mystery box before you entered the room. Would you take just the mystery box? Or would you take both boxes?     Let be the probability that Bob accurately predicts your choice. Write an expected value formula for the strategy of choosing just the mystery box in terms of . Write an expected value formula for the strategy of choosing both boxes in terms of . Which strategy has a higher expected value?      Let be the probability that Bob predicts that you'll take both boxes. Write an expected value formula for the strategy of choosing just the mystery box in terms of . Write an expected value formula for the strategy of choosing both boxes in terms of . Which strategy has a higher expected value?      "
-},
-{
-  "id": "boxes-3-1",
-  "level": "2",
-  "url": "boxes.html#boxes-3-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  A superintelligent robot named Bob waits in a room with two boxes. Box 1 contains $1000. Box 2 is a mystery box containing a secret amount of money. Bob will offer you the choice:   You can take the mystery box alone, or    You can take both boxes.   Bob is very accurate at predicting ahead of time what people will do. If Bob thinks that you'll choose to take only the mystery box, he'll put $1 million dollars in the mystery box. If Bob thinks that you'll choose to take both boxes, he'll put nothing in the mystery box. Bob made his prediction and placed either $1 million or $0 in the mystery box before you entered the room. Would you take just the mystery box? Or would you take both boxes?     Let be the probability that Bob accurately predicts your choice. Write an expected value formula for the strategy of choosing just the mystery box in terms of . Write an expected value formula for the strategy of choosing both boxes in terms of . Which strategy has a higher expected value?      Let be the probability that Bob predicts that you'll take both boxes. Write an expected value formula for the strategy of choosing just the mystery box in terms of . Write an expected value formula for the strategy of choosing both boxes in terms of . Which strategy has a higher expected value?    "
+  "body": "  Suppose a sample of measurements are taken, and the sample is found to have a mean of with a standard error of .     Find the 95% confidence limits.      Find the 92% confidence limits.      Find the 97% confidence limits.      Find the 99% confidence limits.    "
 }
 ]
 
